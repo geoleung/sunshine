@@ -1,0 +1,4364 @@
+# Copyright (C) 2018 the temegum team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lapindos 1.0.0\n"
+"Report-Msgid-Bugs-To: support@themegum.com\n"
+"POT-Creation-Date: 2018-11-17 17:27+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-11-30 09:40+0700\n"
+"Last-Translator: Atawai <support@themegum.com>\n"
+"Language-Team: Lapindos <support@themegum.com>\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: lib/js\n"
+"X-Poedit-SearchPathExcluded-2: fonts\n"
+"X-Poedit-SearchPathExcluded-3: images\n"
+"X-Poedit-SearchPathExcluded-4: languages\n"
+"X-Poedit-SearchPathExcluded-5: css\n"
+"X-Poedit-SearchPathExcluded-6: less\n"
+"X-Poedit-SearchPathExcluded-7: lib/icon_picker\n"
+
+#: 404.php:50
+msgid "404 PAGE"
+msgstr ""
+
+#: 404.php:59
+msgid "Sorry! The page  you're looking not found"
+msgstr ""
+
+#: 404.php:60
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: 404.php:61
+msgid "BACK TO HOME"
+msgstr ""
+
+#: comments.php:37
+msgid "Previous Page"
+msgstr ""
+
+#: comments.php:38
+msgid "Next Page"
+msgstr ""
+
+#: functions.php:40
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:46 lib/category_attributes.php:283 lib/category_attributes.php:325 lib/config.php:2168
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:48
+msgid "The widget will displayed at left/right of main content."
+msgstr ""
+
+#: functions.php:57
+msgid "Slidingbar"
+msgstr ""
+
+#: functions.php:59
+msgid "The widget will displayed at sliding bar (side menu)."
+msgstr ""
+
+#: functions.php:69 lib/config.php:1879 lib/nuno_elements.php:288 lib/nuno_elements.php:332 lib/nuno_elements.php:378 lib/nuno_elements.php:424
+#: lib/nuno_elements.php:470 lib/nuno_elements.php:1006 lib/nuno_elements.php:1050 lib/nuno_elements.php:1096 lib/nuno_elements.php:1142 lib/nuno_elements.php:1188
+#: lib/nuno_elements.php:1483 lib/nuno_elements.php:1527 lib/nuno_elements.php:1573 lib/nuno_elements.php:1619 lib/nuno_elements.php:1665 lib/nuno_elements.php:1874
+#: lib/nuno_elements.php:1918 lib/nuno_elements.php:1964 lib/nuno_elements.php:2010 lib/nuno_elements.php:2056 lib/nuno_elements.php:2285 lib/nuno_elements.php:2329
+#: lib/nuno_elements.php:2375 lib/nuno_elements.php:2421 lib/nuno_elements.php:2467 redux-framework/ReduxCore/inc/fields/border/field_border.php:152
+#: redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:225
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:71
+msgid "The widget will displayed at bottom area before footer text."
+msgstr ""
+
+#: functions.php:81
+msgid "Portfolio Page"
+msgstr ""
+
+#: functions.php:83
+msgid "The widget will displayed at detail portfolio post."
+msgstr ""
+
+#: functions.php:97
+msgid "Service Page"
+msgstr ""
+
+#: functions.php:99
+msgid "The widget will displayed at detail service post."
+msgstr ""
+
+#: functions.php:112
+msgid "Shop Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar will display on woocommerce page only"
+msgstr ""
+
+#: lib/category_attributes.php:92 lib/category_attributes.php:166
+#, php-format
+msgid "%s Image"
+msgstr ""
+
+#: lib/category_attributes.php:96 lib/category_attributes.php:171
+msgid "Upload/Add image"
+msgstr ""
+
+#: lib/category_attributes.php:97 lib/category_attributes.php:172
+msgid "Remove image"
+msgstr ""
+
+#: lib/category_attributes.php:123 lib/category_attributes.php:200
+msgid "Choose an image"
+msgstr ""
+
+#: lib/category_attributes.php:125 lib/category_attributes.php:202
+msgid "Use image"
+msgstr ""
+
+#: lib/category_attributes.php:264 lib/category_attributes.php:308
+msgid "Rich Description"
+msgstr ""
+
+#: lib/category_attributes.php:284 lib/category_attributes.php:326
+msgid "Hide the sidebar"
+msgstr ""
+
+#: lib/category_attributes.php:285 lib/category_attributes.php:327
+msgid "This option will forcing hide the sidebar."
+msgstr ""
+
+#: lib/category_attributes.php:288 lib/category_attributes.php:331 lib/config.php:301 lib/config.php:1987 lib/config.php:2069
+msgid "Layout"
+msgstr ""
+
+#: lib/category_attributes.php:291 lib/category_attributes.php:333 lib/config.php:106 lib/config.php:385 lib/config.php:495 lib/config.php:603 lib/config.php:817
+#: lib/config.php:937 lib/config.php:1399 lib/config.php:1412 lib/config.php:2759 lib/config.php:2848 lib/nuno_elements.php:1372 lib/nuno_elements.php:1427
+#: lib/nuno_elements.php:1443 lib/nuno_elements.php:1783 lib/nuno_elements.php:1797 lib/nuno_elements.php:2215 lib/nuno_elements.php:2229 lib/nuno_elements.php:2690
+#: lib/nuno_elements.php:2753 lib/themegum_functions.php:15 redux-framework/ReduxCore/framework.php:1499
+msgid "Default"
+msgstr ""
+
+#: lib/category_attributes.php:292 lib/category_attributes.php:334 lib/config.php:2331 lib/config.php:2355
+msgid "1 Column"
+msgstr ""
+
+#: lib/category_attributes.php:293 lib/category_attributes.php:335 lib/config.php:1997 lib/config.php:2010 lib/config.php:2023 lib/config.php:2307 lib/config.php:2332
+#: lib/config.php:2356 lib/config.php:2557
+msgid "2 Columns"
+msgstr ""
+
+#: lib/category_attributes.php:294 lib/category_attributes.php:336 lib/config.php:1998 lib/config.php:2011 lib/config.php:2024 lib/config.php:2308 lib/config.php:2333
+#: lib/config.php:2357 lib/config.php:2558
+msgid "3 Columns"
+msgstr ""
+
+#: lib/category_attributes.php:295 lib/category_attributes.php:337
+msgid "Chess"
+msgstr ""
+
+#: lib/category_attributes.php:297 lib/category_attributes.php:339
+msgid "This option will overwrite theme option."
+msgstr ""
+
+#: lib/config.php:25
+msgid "Theme Information 1"
+msgstr ""
+
+#: lib/config.php:26 lib/config.php:31
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: lib/config.php:30
+msgid "Theme Information 2"
+msgstr ""
+
+#: lib/config.php:37
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: lib/config.php:42
+msgid "Site Identity"
+msgstr ""
+
+#: lib/config.php:51 lib/config.php:94
+msgid "Image Logo"
+msgstr ""
+
+#: lib/config.php:52
+msgid "Select image for the logo"
+msgstr ""
+
+#: lib/config.php:59
+msgid "Image Logo Alt"
+msgstr ""
+
+#: lib/config.php:60
+msgid "Alt logo will displayed on sticky menu."
+msgstr ""
+
+#: lib/config.php:69 lib/config.php:95
+msgid "Site Title"
+msgstr ""
+
+#: lib/config.php:76
+msgid "Tagline"
+msgstr ""
+
+#: lib/config.php:81
+msgid "Show Tagline"
+msgstr ""
+
+#: lib/config.php:82
+msgid "Show or hide tagline"
+msgstr ""
+
+#: lib/config.php:84 lib/config.php:308 lib/config.php:375 lib/config.php:593 lib/config.php:734 lib/config.php:927 lib/config.php:1003 lib/config.php:1552
+#: lib/config.php:2062 lib/config.php:2454 lib/config.php:2466 lib/config.php:2478 lib/config.php:2491 lib/config.php:2590 lib/config.php:2609 lib/config.php:3264
+#: lib/config.php:3328
+msgid "Yes"
+msgstr ""
+
+#: lib/config.php:85 lib/config.php:309 lib/config.php:376 lib/config.php:594 lib/config.php:616 lib/config.php:735 lib/config.php:928 lib/config.php:1005
+#: lib/config.php:1553 lib/config.php:2063 lib/config.php:2453 lib/config.php:2465 lib/config.php:2477 lib/config.php:2490 lib/config.php:2591 lib/config.php:2608
+#: lib/config.php:3265 lib/config.php:3329
+msgid "No"
+msgstr ""
+
+#: lib/config.php:90
+msgid "Logo Type"
+msgstr ""
+
+#: lib/config.php:91
+msgid "Select logo type shown as site name"
+msgstr ""
+
+#: lib/config.php:93
+msgid "Auto"
+msgstr ""
+
+#: lib/config.php:103
+msgid "Logo Position"
+msgstr ""
+
+#: lib/config.php:104
+msgid "Select logo placement"
+msgstr ""
+
+#: lib/config.php:107 lib/config.php:875 lib/config.php:1086 lib/config.php:1199 lib/config.php:1876 lib/config.php:2118 lib/config.php:2131 lib/config.php:2144
+#: lib/config.php:2157 lib/config.php:2186 lib/config.php:2261 lib/config.php:2274 lib/config.php:2287 lib/config.php:2428 lib/config.php:2530 lib/config.php:2543
+#: lib/config.php:2801 lib/nuno_elements.php:295 lib/nuno_elements.php:340 lib/nuno_elements.php:386 lib/nuno_elements.php:432 lib/nuno_elements.php:478
+#: lib/nuno_elements.php:774 lib/nuno_elements.php:1013 lib/nuno_elements.php:1058 lib/nuno_elements.php:1104 lib/nuno_elements.php:1150 lib/nuno_elements.php:1196
+#: lib/nuno_elements.php:1490 lib/nuno_elements.php:1535 lib/nuno_elements.php:1581 lib/nuno_elements.php:1627 lib/nuno_elements.php:1673 lib/nuno_elements.php:1784
+#: lib/nuno_elements.php:1881 lib/nuno_elements.php:1926 lib/nuno_elements.php:1972 lib/nuno_elements.php:2018 lib/nuno_elements.php:2064 lib/nuno_elements.php:2216
+#: lib/nuno_elements.php:2292 lib/nuno_elements.php:2337 lib/nuno_elements.php:2383 lib/nuno_elements.php:2429 lib/nuno_elements.php:2475
+#: redux-framework/ReduxCore/inc/fields/border/field_border.php:159 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:195
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:279 redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:232
+msgid "Left"
+msgstr ""
+
+#: lib/config.php:108 lib/config.php:877 lib/config.php:1088 lib/config.php:1201 lib/config.php:1877 lib/config.php:2119 lib/config.php:2132 lib/config.php:2145
+#: lib/config.php:2158 lib/config.php:2187 lib/config.php:2262 lib/config.php:2275 lib/config.php:2288 lib/config.php:2429 lib/config.php:2531 lib/config.php:2544
+#: lib/config.php:2802 lib/nuno_elements.php:302 lib/nuno_elements.php:348 lib/nuno_elements.php:394 lib/nuno_elements.php:440 lib/nuno_elements.php:486
+#: lib/nuno_elements.php:776 lib/nuno_elements.php:1020 lib/nuno_elements.php:1066 lib/nuno_elements.php:1112 lib/nuno_elements.php:1158 lib/nuno_elements.php:1204
+#: lib/nuno_elements.php:1497 lib/nuno_elements.php:1543 lib/nuno_elements.php:1589 lib/nuno_elements.php:1635 lib/nuno_elements.php:1681 lib/nuno_elements.php:1786
+#: lib/nuno_elements.php:1888 lib/nuno_elements.php:1934 lib/nuno_elements.php:1980 lib/nuno_elements.php:2026 lib/nuno_elements.php:2072 lib/nuno_elements.php:2218
+#: lib/nuno_elements.php:2299 lib/nuno_elements.php:2345 lib/nuno_elements.php:2391 lib/nuno_elements.php:2437 lib/nuno_elements.php:2483
+#: redux-framework/ReduxCore/inc/fields/border/field_border.php:145 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:197
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:281 redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:218
+msgid "Right"
+msgstr ""
+
+#: lib/config.php:115 lib/config.php:1531
+msgid "Social Link"
+msgstr ""
+
+#: lib/config.php:119
+msgid "Social link data. Field blank will not display."
+msgstr ""
+
+#: lib/config.php:124
+msgid "Facebook Link"
+msgstr ""
+
+#: lib/config.php:125
+msgid "( example: https://www.facebook.com/themegum/ )"
+msgstr ""
+
+#: lib/config.php:131
+msgid "Twitter Link"
+msgstr ""
+
+#: lib/config.php:132
+msgid "( example: https://twitter.com/temegum )"
+msgstr ""
+
+#: lib/config.php:138
+msgid "Google Plus Link"
+msgstr ""
+
+#: lib/config.php:139
+msgid "( example: https://plus.google.com/u/0/1234567890123456789 )"
+msgstr ""
+
+#: lib/config.php:145
+msgid "Linkedin Link"
+msgstr ""
+
+#: lib/config.php:146
+msgid "( example: https://www.linkedin.com/ )"
+msgstr ""
+
+#: lib/config.php:152
+msgid "Pinterest Link"
+msgstr ""
+
+#: lib/config.php:153
+msgid "( example: https://id.pinterest.com/temegum/ )"
+msgstr ""
+
+#: lib/config.php:159
+msgid "Instagram Link"
+msgstr ""
+
+#: lib/config.php:160
+msgid "( example: https://www.instagram.com/themegum_team/ )"
+msgstr ""
+
+#: lib/config.php:166
+msgid "Custom Social Links"
+msgstr ""
+
+#: lib/config.php:167
+msgid "Add social link with custom icon."
+msgstr ""
+
+#: lib/config.php:170 lib/config.php:1078 lib/config.php:1191 lib/config.php:1354
+msgid "Link"
+msgstr ""
+
+#: lib/config.php:171 lib/config.php:1076 lib/config.php:1189 lib/config.php:1347 lib/config.php:2443
+msgid "Label"
+msgstr ""
+
+#: lib/config.php:180 lib/config.php:2050 lib/config.php:2200 lib/config.php:2377 lib/config.php:2503 lib/config.php:2578
+msgid "Header"
+msgstr ""
+
+#: lib/config.php:191
+msgid "Pre-Sets"
+msgstr ""
+
+#: lib/config.php:197
+msgid "HEADER LAYOUT PRESET"
+msgstr ""
+
+#: lib/config.php:198
+msgid "Select pre-define a header layout. Becareful! your last configuration will be lost."
+msgstr ""
+
+#: lib/config.php:202
+msgid "Preset 15"
+msgstr ""
+
+#: lib/config.php:207
+msgid "Preset 16"
+msgstr ""
+
+#: lib/config.php:212
+msgid "Preset 17"
+msgstr ""
+
+#: lib/config.php:217
+msgid "Preset 18"
+msgstr ""
+
+#: lib/config.php:222
+msgid "Preset 1"
+msgstr ""
+
+#: lib/config.php:227
+msgid "Preset 2"
+msgstr ""
+
+#: lib/config.php:232
+msgid "Preset 3"
+msgstr ""
+
+#: lib/config.php:237
+msgid "Preset 4"
+msgstr ""
+
+#: lib/config.php:242
+msgid "Preset 5"
+msgstr ""
+
+#: lib/config.php:247
+msgid "Preset 6"
+msgstr ""
+
+#: lib/config.php:252
+msgid "Preset 7"
+msgstr ""
+
+#: lib/config.php:257
+msgid "Preset 13"
+msgstr ""
+
+#: lib/config.php:262
+msgid "Preset 14"
+msgstr ""
+
+#: lib/config.php:267
+msgid "Preset 8"
+msgstr ""
+
+#: lib/config.php:272
+msgid "Preset 9"
+msgstr ""
+
+#: lib/config.php:277
+msgid "Preset 10"
+msgstr ""
+
+#: lib/config.php:282
+msgid "Preset 11"
+msgstr ""
+
+#: lib/config.php:287
+msgid "Preset 12"
+msgstr ""
+
+#: lib/config.php:305
+msgid "Bottom Shadow"
+msgstr ""
+
+#: lib/config.php:306
+msgid "Add shadow on header bottom."
+msgstr ""
+
+#: lib/config.php:315
+msgid "HEADER CUSTOM LAYOUT"
+msgstr ""
+
+#: lib/config.php:316 lib/config.php:1013
+msgid "Select the module and to section available."
+msgstr ""
+
+#: lib/config.php:320
+msgid "Top Section"
+msgstr ""
+
+#: lib/config.php:321 lib/config.php:1018
+msgid "Drag module from modules box."
+msgstr ""
+
+#: lib/config.php:323 lib/config.php:1027
+msgid "Free Text"
+msgstr ""
+
+#: lib/config.php:324 lib/config.php:1028
+msgid "Social Icons"
+msgstr ""
+
+#: lib/config.php:328
+msgid "Middle Section"
+msgstr ""
+
+#: lib/config.php:329
+msgid "The logo automatic displayed at this section."
+msgstr ""
+
+#: lib/config.php:331 lib/config.php:1020 lib/config.php:1636 template-part/middle-bar.php:12 template-part/sticky-bar.php:12
+msgid "Main Menu"
+msgstr ""
+
+#: lib/config.php:335
+msgid "Bottom Section"
+msgstr ""
+
+#: lib/config.php:336
+msgid "Drag module from modules box. This section usualy for navigation menu."
+msgstr ""
+
+#: lib/config.php:340 lib/config.php:1024
+msgid "Modules Available"
+msgstr ""
+
+#: lib/config.php:341 lib/config.php:1025
+msgid "Select the module by dragging on module name and drop on section box."
+msgstr ""
+
+#: lib/config.php:343 lib/config.php:1029 lib/nuno_elements.php:795 lib/nuno_elements.php:824
+msgid "Button Link"
+msgstr ""
+
+#: lib/config.php:344 lib/config.php:1030 lib/config.php:1067
+msgid "Icons Info"
+msgstr ""
+
+#: lib/config.php:345 lib/config.php:1031 lib/config.php:1180
+msgid "Icons Info (Flat)"
+msgstr ""
+
+#: lib/config.php:346 lib/config.php:1032
+msgid "Search & Cart"
+msgstr ""
+
+#: lib/config.php:347 lib/config.php:1033 lib/config.php:1768
+msgid "Short Menu"
+msgstr ""
+
+#: lib/config.php:348 lib/config.php:1034
+msgid "Side Menu Toggle"
+msgstr ""
+
+#: lib/config.php:357 lib/config.php:1043
+msgid "Element style option see header elements section."
+msgstr ""
+
+#: lib/config.php:366
+msgid "Top Section Settings"
+msgstr ""
+
+#: lib/config.php:372 lib/config.php:590 lib/config.php:924 lib/tgm/class-tgm-plugin-activation.php:2412
+#: redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: lib/config.php:373
+msgid "Enable or disable top header section."
+msgstr ""
+
+#: lib/config.php:382 lib/config.php:492 lib/config.php:600 lib/config.php:934 lib/config.php:2756 lib/config.php:2845
+msgid "Layout Mode"
+msgstr ""
+
+#: lib/config.php:386 lib/config.php:496 lib/config.php:604 lib/config.php:938 lib/config.php:2760 lib/config.php:2849
+msgid "Wide"
+msgstr ""
+
+#: lib/config.php:387 lib/config.php:497 lib/config.php:605 lib/config.php:939 lib/config.php:2761 lib/config.php:2850
+msgid "Boxed"
+msgstr ""
+
+#: lib/config.php:395 lib/config.php:505 lib/config.php:1095 lib/config.php:1208 lib/config.php:1326 lib/config.php:1376 lib/config.php:1559 lib/config.php:1780
+msgid "Responsivity"
+msgstr ""
+
+#: lib/config.php:398 lib/config.php:508 lib/config.php:1098 lib/config.php:1211 lib/config.php:1329 lib/config.php:1379 lib/config.php:1562 lib/config.php:1783
+msgid "Show Forever"
+msgstr ""
+
+#: lib/config.php:399 lib/config.php:509 lib/config.php:1099 lib/config.php:1212 lib/config.php:1330 lib/config.php:1380 lib/config.php:1563 lib/config.php:1784
+msgid "Hidden since 768px"
+msgstr ""
+
+#: lib/config.php:400 lib/config.php:510 lib/config.php:1100 lib/config.php:1213 lib/config.php:1331 lib/config.php:1381 lib/config.php:1564 lib/config.php:1785
+msgid "Hidden since 480px"
+msgstr ""
+
+#: lib/config.php:408 lib/config.php:544 lib/config.php:661 lib/config.php:826
+msgid "Minimum Height"
+msgstr ""
+
+#: lib/config.php:409
+msgid "Minimum top bar height in px"
+msgstr ""
+
+#: lib/config.php:425 lib/config.php:572 lib/config.php:689 lib/config.php:990
+msgid "Vertical Padding"
+msgstr ""
+
+#: lib/config.php:426 lib/config.php:573 lib/config.php:690 lib/config.php:991
+msgid "You can adjust content position by set padding top/bottom."
+msgstr ""
+
+#: lib/config.php:436 lib/config.php:555 lib/config.php:672 lib/config.php:1424
+msgid "Border Radius"
+msgstr ""
+
+#: lib/config.php:437 lib/config.php:556 lib/config.php:673 lib/config.php:1425
+msgid "Border radius in px"
+msgstr ""
+
+#: lib/config.php:447 lib/config.php:518 lib/config.php:626
+msgid "Outer Background Color"
+msgstr ""
+
+#: lib/config.php:456 lib/config.php:527 lib/config.php:636
+msgid "Inner Background Color"
+msgstr ""
+
+#: lib/config.php:466 lib/config.php:537 lib/config.php:645 lib/config.php:1573 lib/config.php:1607 lib/config.php:1681 lib/config.php:1950
+msgid "Color"
+msgstr ""
+
+#: lib/config.php:472
+msgid "Border Bottom"
+msgstr ""
+
+#: lib/config.php:485
+msgid "Middle Section Settings"
+msgstr ""
+
+#: lib/config.php:486
+msgid "This section will collapse when screen below 768px ( mobile )."
+msgstr ""
+
+#: lib/config.php:545
+msgid "Minimum middle section height in px"
+msgstr ""
+
+#: lib/config.php:585
+msgid "Bottom Section Settings"
+msgstr ""
+
+#: lib/config.php:591
+msgid "Enable or disable bottom header section."
+msgstr ""
+
+#: lib/config.php:613
+msgid "Hang Down Mode"
+msgstr ""
+
+#: lib/config.php:614
+msgid "Half section hang down."
+msgstr ""
+
+#: lib/config.php:617
+msgid "Half of Height"
+msgstr ""
+
+#: lib/config.php:618
+msgid "Full of Height"
+msgstr ""
+
+#: lib/config.php:652
+msgid "Border Top"
+msgstr ""
+
+#: lib/config.php:662
+msgid "Minimum bottom section height in px"
+msgstr ""
+
+#: lib/config.php:705
+msgid "Bottom Shape"
+msgstr ""
+
+#: lib/config.php:711
+msgid "Shape"
+msgstr ""
+
+#: lib/config.php:712
+msgid "Select bottom shape for header."
+msgstr ""
+
+#: lib/config.php:716 lib/config.php:1538 lib/nuno_elements.php:176 lib/nuno_elements.php:894 lib/nuno_elements.php:1413 lib/nuno_elements.php:2770 lib/widgets.php:436
+msgid "None"
+msgstr ""
+
+#: lib/config.php:720
+msgid "Triangle"
+msgstr ""
+
+#: lib/config.php:724
+msgid "Curve"
+msgstr ""
+
+#: lib/config.php:731
+msgid "Stickybar Shape"
+msgstr ""
+
+#: lib/config.php:732
+msgid "Activated shape in sticky bar."
+msgstr ""
+
+#: lib/config.php:740
+msgid "Shape Height"
+msgstr ""
+
+#: lib/config.php:744
+msgid "Type the height in px. The default is 100px."
+msgstr ""
+
+#: lib/config.php:748
+msgid "Height Wave"
+msgstr ""
+
+#: lib/config.php:752
+msgid "Enter value 0 - 100."
+msgstr ""
+
+#: lib/config.php:756
+msgid "Peak Position"
+msgstr ""
+
+#: lib/config.php:759
+msgid "Peak position fron leftside"
+msgstr ""
+
+#: lib/config.php:761
+msgid "Enter value 0 - 100. 50 mean center."
+msgstr ""
+
+#: lib/config.php:766
+msgid "Control Point"
+msgstr ""
+
+#: lib/config.php:770
+msgid "Enter value -100 - 100."
+msgstr ""
+
+#: lib/config.php:775
+msgid "Repeat Pattern #"
+msgstr ""
+
+#: lib/config.php:779
+msgid "How many pattern repeated."
+msgstr ""
+
+#: lib/config.php:785
+msgid "Pattern Color"
+msgstr ""
+
+#: lib/config.php:786
+msgid "Pick a color shape pattern."
+msgstr ""
+
+#: lib/config.php:796
+msgid "Page Heading"
+msgstr ""
+
+#: lib/config.php:797
+msgid "Page Heading Settings."
+msgstr ""
+
+#: lib/config.php:804 lib/config.php:2209
+msgid "Heading Image"
+msgstr ""
+
+#: lib/config.php:805 lib/config.php:2210 lib/config.php:2386 lib/config.php:2408 lib/config.php:2597
+msgid "Select image using for heading background."
+msgstr ""
+
+#: lib/config.php:807 lib/config.php:2212 lib/config.php:2388 lib/config.php:2410 lib/config.php:2599
+msgid "Recomended 1500px wide."
+msgstr ""
+
+#: lib/config.php:813
+msgid "Image Position"
+msgstr ""
+
+#: lib/config.php:814
+msgid "Select image position"
+msgstr ""
+
+#: lib/config.php:815
+msgid "Default position is relative, image following page scrolling."
+msgstr ""
+
+#: lib/config.php:818
+msgid "Fixed"
+msgstr ""
+
+#: lib/config.php:827
+msgid "Minimum height in px."
+msgstr ""
+
+#: lib/config.php:837 lib/config.php:1585 lib/config.php:1620 lib/config.php:1887
+msgid "Background Color"
+msgstr ""
+
+#: lib/config.php:838
+msgid "Pick a color for heading background"
+msgstr ""
+
+#: lib/config.php:847
+msgid "Page Title & Breadcrumb"
+msgstr ""
+
+#: lib/config.php:848
+msgid "Title & breadcrumb configuration."
+msgstr ""
+
+#: lib/config.php:854 lib/config.php:2218
+msgid "Page Title"
+msgstr ""
+
+#: lib/config.php:855
+msgid "Show or hidden page title at heading"
+msgstr ""
+
+#: lib/config.php:857 lib/config.php:866 lib/config.php:1844 lib/nuno_elements.php:1832
+msgid "Show"
+msgstr ""
+
+#: lib/config.php:858 lib/config.php:867 lib/config.php:1845 lib/config.php:2052 lib/config.php:2202 lib/config.php:2505 lib/config.php:2580
+msgid "Hidden"
+msgstr ""
+
+#: lib/config.php:863
+msgid "Breadcrumb"
+msgstr ""
+
+#: lib/config.php:864
+msgid "Show or hidden breadcrumb at heading"
+msgstr ""
+
+#: lib/config.php:872 lib/nuno_elements.php:2702
+msgid "Placement"
+msgstr ""
+
+#: lib/config.php:873
+msgid "Page title and breadcrumb alignment."
+msgstr ""
+
+#: lib/config.php:876 lib/config.php:1087 lib/config.php:1200 lib/nuno_elements.php:775 lib/nuno_elements.php:1785 lib/nuno_elements.php:2217
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:196 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:280
+msgid "Center"
+msgstr ""
+
+#: lib/config.php:882
+msgid "Vertical Offset"
+msgstr ""
+
+#: lib/config.php:886
+msgid "Adjust vertical placement. Positive value for more up or minus for more down."
+msgstr ""
+
+#: lib/config.php:892
+msgid "Page Title Color"
+msgstr ""
+
+#: lib/config.php:899
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: lib/config.php:906
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: lib/config.php:917
+msgid "Sticky Bar"
+msgstr ""
+
+#: lib/config.php:918
+msgid "Sticky navigation bar"
+msgstr ""
+
+#: lib/config.php:925
+msgid "Menu position when screen scroll down"
+msgstr ""
+
+#: lib/config.php:947
+msgid "Sticky for Mobile"
+msgstr ""
+
+#: lib/config.php:948
+msgid "Sticky mode on 600px screen."
+msgstr ""
+
+#: lib/config.php:949 redux-framework/ReduxCore/framework.php:1353
+msgid "Enable"
+msgstr ""
+
+#: lib/config.php:950 redux-framework/ReduxCore/framework.php:1358
+msgid "Disable"
+msgstr ""
+
+#: lib/config.php:956 lib/config.php:1126 lib/config.php:1239
+msgid "Text Color"
+msgstr ""
+
+#: lib/config.php:958
+msgid "Default color. Each element can customized in element styles section."
+msgstr ""
+
+#: lib/config.php:964
+msgid "Outer Background"
+msgstr ""
+
+#: lib/config.php:965
+msgid "Background color for stickybar"
+msgstr ""
+
+#: lib/config.php:974
+msgid "Inner Background"
+msgstr ""
+
+#: lib/config.php:975
+msgid "Background color for inner sticky menu also for mobile menu top bar."
+msgstr ""
+
+#: lib/config.php:999
+msgid "Stickybar Shadow"
+msgstr ""
+
+#: lib/config.php:1000
+msgid "Add shadow to stickybar"
+msgstr ""
+
+#: lib/config.php:1004
+msgid "Inner only"
+msgstr ""
+
+#: lib/config.php:1012
+msgid "LAYOUT"
+msgstr ""
+
+#: lib/config.php:1017
+msgid "Modules Selected"
+msgstr ""
+
+#: lib/config.php:1054
+msgid "Element Styles"
+msgstr ""
+
+#: lib/config.php:1068
+msgid "Configure navigation icon items."
+msgstr ""
+
+#: lib/config.php:1073 lib/config.php:1186
+msgid "Source Icons"
+msgstr ""
+
+#: lib/config.php:1077 lib/config.php:1190
+msgid "Text"
+msgstr ""
+
+#: lib/config.php:1084 lib/config.php:1197
+msgid "Align"
+msgstr ""
+
+#: lib/config.php:1108 lib/config.php:1145 lib/config.php:1221 lib/config.php:1258
+msgid "Icon Color"
+msgstr ""
+
+#: lib/config.php:1109 lib/config.php:1146 lib/config.php:1222 lib/config.php:1259
+msgid "Pick a color for icon."
+msgstr ""
+
+#: lib/config.php:1117 lib/config.php:1155 lib/config.php:1165 lib/config.php:1230 lib/config.php:1268 lib/config.php:1278 lib/config.php:1436 lib/config.php:1483
+msgid "Label Color"
+msgstr ""
+
+#: lib/config.php:1118 lib/config.php:1156 lib/config.php:1166 lib/config.php:1231 lib/config.php:1269 lib/config.php:1279
+msgid "Pick a color for label."
+msgstr ""
+
+#: lib/config.php:1127 lib/config.php:1240
+msgid "Pick a color for text."
+msgstr ""
+
+#: lib/config.php:1134 lib/config.php:1247 lib/config.php:1473 lib/config.php:1596 lib/config.php:1805
+msgid "STICKY STYLE"
+msgstr ""
+
+#: lib/config.php:1135
+msgid "Icons info style for sticky element."
+msgstr ""
+
+#: lib/config.php:1137 lib/config.php:1250 lib/config.php:1476 lib/config.php:1599 lib/config.php:1808
+msgid "Other Color"
+msgstr ""
+
+#: lib/config.php:1138 lib/config.php:1251 lib/config.php:1477 lib/config.php:1600 lib/config.php:1809
+msgid "Normal"
+msgstr ""
+
+#: lib/config.php:1181
+msgid "Configure navigation icon items. The icon will showing inline"
+msgstr ""
+
+#: lib/config.php:1248
+msgid "Flat icons style for sticky element."
+msgstr ""
+
+#: lib/config.php:1294
+msgid "Custom Text"
+msgstr ""
+
+#: lib/config.php:1299
+msgid "Free Content"
+msgstr ""
+
+#: lib/config.php:1300
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: lib/config.php:1301
+msgid "This content just allow simple html content."
+msgstr ""
+
+#: lib/config.php:1344
+msgid "Button"
+msgstr ""
+
+#: lib/config.php:1350
+msgid "Get a Quote"
+msgstr ""
+
+#: lib/config.php:1363 lib/config.php:1536
+msgid "Link Target"
+msgstr ""
+
+#: lib/config.php:1365 lib/config.php:1539
+msgid "Same frame"
+msgstr ""
+
+#: lib/config.php:1366 lib/config.php:1540
+msgid "New window"
+msgstr ""
+
+#: lib/config.php:1367 lib/config.php:1541
+msgid "Parent frameset"
+msgstr ""
+
+#: lib/config.php:1368 lib/config.php:1542
+msgid "Full body of the window"
+msgstr ""
+
+#: lib/config.php:1389 lib/nuno_elements.php:802 lib/nuno_elements.php:831 lib/nuno_elements.php:1820
+msgid "Button Skin"
+msgstr ""
+
+#: lib/config.php:1397
+msgid "Button Shape"
+msgstr ""
+
+#: lib/config.php:1400
+msgid "Rectangular"
+msgstr ""
+
+#: lib/config.php:1401 lib/nuno_elements.php:2755
+msgid "Rounded"
+msgstr ""
+
+#: lib/config.php:1402 lib/nuno_elements.php:196 lib/nuno_elements.php:236 lib/nuno_elements.php:914 lib/nuno_elements.php:954
+msgid "Custom"
+msgstr ""
+
+#: lib/config.php:1410
+msgid "Button Size"
+msgstr ""
+
+#: lib/config.php:1413
+msgid "Large"
+msgstr ""
+
+#: lib/config.php:1414
+msgid "Medium"
+msgstr ""
+
+#: lib/config.php:1415
+msgid "Small"
+msgstr ""
+
+#: lib/config.php:1416
+msgid "Extra small"
+msgstr ""
+
+#: lib/config.php:1437 lib/config.php:1484
+msgid "Pick a color for custom button label."
+msgstr ""
+
+#: lib/config.php:1448 lib/config.php:1496
+msgid "Button Color"
+msgstr ""
+
+#: lib/config.php:1449 lib/config.php:1497
+msgid "Pick a color for custom button color."
+msgstr ""
+
+#: lib/config.php:1461 lib/config.php:1511
+msgid "Button Border Color"
+msgstr ""
+
+#: lib/config.php:1462 lib/config.php:1512
+msgid "Pick a color for custom button border color."
+msgstr ""
+
+#: lib/config.php:1474 lib/config.php:1597
+msgid "Button style for sticky element."
+msgstr ""
+
+#: lib/config.php:1549
+msgid "Show Label"
+msgstr ""
+
+#: lib/config.php:1550
+msgid "Show or hidden social label."
+msgstr ""
+
+#: lib/config.php:1574 lib/config.php:1608
+msgid "Pick a color for social icon."
+msgstr ""
+
+#: lib/config.php:1586 lib/config.php:1621
+msgid "Pick a color for background."
+msgstr ""
+
+#: lib/config.php:1637
+msgid "Main menu settings."
+msgstr ""
+
+#: lib/config.php:1643
+msgid "Navbar"
+msgstr ""
+
+#: lib/config.php:1644
+msgid "Navigation bat styles."
+msgstr ""
+
+#: lib/config.php:1650 lib/config.php:1706
+msgid "Border"
+msgstr ""
+
+#: lib/config.php:1651
+msgid "Border the navbar."
+msgstr ""
+
+#: lib/config.php:1663
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: lib/config.php:1664
+msgid "Pick a color for dropdown background"
+msgstr ""
+
+#: lib/config.php:1674
+msgid "Menu Item"
+msgstr ""
+
+#: lib/config.php:1675
+msgid "Menu styles."
+msgstr ""
+
+#: lib/config.php:1682
+msgid "Pick a color for menu color."
+msgstr ""
+
+#: lib/config.php:1693
+msgid "Sticky Color"
+msgstr ""
+
+#: lib/config.php:1694
+msgid "( Sticky Bar )"
+msgstr ""
+
+#: lib/config.php:1695
+msgid "Pick a color for menu color on sticky bar."
+msgstr ""
+
+#: lib/config.php:1707
+msgid "Border each menu."
+msgstr ""
+
+#: lib/config.php:1719
+msgid "Hover Menu Border Color"
+msgstr ""
+
+#: lib/config.php:1720
+msgid "Border color when menu hover."
+msgstr ""
+
+#: lib/config.php:1729
+msgid "Dropdown Menu Color"
+msgstr ""
+
+#: lib/config.php:1730
+msgid "Pick a color for dropdown menu color."
+msgstr ""
+
+#: lib/config.php:1741
+msgid "Mobile Menu Color"
+msgstr ""
+
+#: lib/config.php:1742
+msgid "Pick a color for mobile menu color."
+msgstr ""
+
+#: lib/config.php:1753
+msgid "Mobile Menu Background"
+msgstr ""
+
+#: lib/config.php:1754
+msgid "Background color for mobile menu."
+msgstr ""
+
+#: lib/config.php:1773
+msgid "Source Menu"
+msgstr ""
+
+#: lib/config.php:1775
+msgid "Select menu source"
+msgstr ""
+
+#: lib/config.php:1794 lib/config.php:1815
+msgid "Menu Color"
+msgstr ""
+
+#: lib/config.php:1795 lib/config.php:1816
+msgid "Pick a color for custom color."
+msgstr ""
+
+#: lib/config.php:1806
+msgid "Menu style for sticky element."
+msgstr ""
+
+#: lib/config.php:1834
+msgid "Sliding Bar"
+msgstr ""
+
+#: lib/config.php:1835
+msgid "Sliding navigation bar."
+msgstr ""
+
+#: lib/config.php:1841
+msgid "Show Sliding Bar"
+msgstr ""
+
+#: lib/config.php:1842
+msgid "Hide or show slidingbar."
+msgstr ""
+
+#: lib/config.php:1850
+msgid "Content Source"
+msgstr ""
+
+#: lib/config.php:1851
+msgid "Selec the slidingbar content source."
+msgstr ""
+
+#: lib/config.php:1854
+msgid "Slidingbar Widget"
+msgstr ""
+
+#: lib/config.php:1855
+msgid "Sidebar Widget"
+msgstr ""
+
+#: lib/config.php:1856 lib/config.php:2663
+msgid "Page"
+msgstr ""
+
+#: lib/config.php:1863
+msgid "Page Source"
+msgstr ""
+
+#: lib/config.php:1864
+msgid "Content will displayed as slidingbar content"
+msgstr ""
+
+#: lib/config.php:1865 lib/config.php:2673 lib/config.php:2684 lib/config.php:2704
+msgid "Create a page first."
+msgstr ""
+
+#: lib/config.php:1871
+msgid "Sliding Bar Placement"
+msgstr ""
+
+#: lib/config.php:1872
+msgid "The position of slidingbar."
+msgstr ""
+
+#: lib/config.php:1878 lib/nuno_elements.php:281 lib/nuno_elements.php:324 lib/nuno_elements.php:370 lib/nuno_elements.php:416 lib/nuno_elements.php:462
+#: lib/nuno_elements.php:999 lib/nuno_elements.php:1042 lib/nuno_elements.php:1088 lib/nuno_elements.php:1134 lib/nuno_elements.php:1180 lib/nuno_elements.php:1476
+#: lib/nuno_elements.php:1519 lib/nuno_elements.php:1565 lib/nuno_elements.php:1611 lib/nuno_elements.php:1657 lib/nuno_elements.php:1867 lib/nuno_elements.php:1910
+#: lib/nuno_elements.php:1956 lib/nuno_elements.php:2002 lib/nuno_elements.php:2048 lib/nuno_elements.php:2278 lib/nuno_elements.php:2321 lib/nuno_elements.php:2367
+#: lib/nuno_elements.php:2413 lib/nuno_elements.php:2459 redux-framework/ReduxCore/inc/fields/border/field_border.php:138
+#: redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:211
+msgid "Top"
+msgstr ""
+
+#: lib/config.php:1888
+msgid "Select color for background slidingbar."
+msgstr ""
+
+#: lib/config.php:1893
+msgid "Overlay Darkness"
+msgstr ""
+
+#: lib/config.php:1894
+msgid "Offset content transparency. 0 for no transparency and 20 for maximum ( dark )"
+msgstr ""
+
+#: lib/config.php:1902
+msgid "Toggle Menu"
+msgstr ""
+
+#: lib/config.php:1903
+msgid "Toggle menu styles."
+msgstr ""
+
+#: lib/config.php:1910
+msgid "Select Type"
+msgstr ""
+
+#: lib/config.php:1911
+msgid "Select toggle view."
+msgstr ""
+
+#: lib/config.php:1959
+msgid "Font Size"
+msgstr ""
+
+#: lib/config.php:1960
+msgid "Font size the toggle"
+msgstr ""
+
+#: lib/config.php:1974
+msgid "Blog"
+msgstr ""
+
+#: lib/config.php:1988
+msgid "Blog column  settings."
+msgstr ""
+
+#: lib/config.php:1993
+msgid "Blog Layout"
+msgstr ""
+
+#: lib/config.php:1994
+msgid "The number of grid columns for default blog"
+msgstr ""
+
+#: lib/config.php:1996 lib/config.php:2009 lib/config.php:2022 lib/config.php:2556
+msgid "1 Columns"
+msgstr ""
+
+#: lib/config.php:2006
+msgid "Author Blog Layout"
+msgstr ""
+
+#: lib/config.php:2007
+msgid "The number of grid columns for author blog"
+msgstr ""
+
+#: lib/config.php:2019
+msgid "Category Blog Layout"
+msgstr ""
+
+#: lib/config.php:2020
+msgid "The number of grid columns for category & archive blog"
+msgstr ""
+
+#: lib/config.php:2032 lib/config.php:2365 lib/config.php:2416 lib/config.php:2566
+msgid "Main Menu ( Optional )"
+msgstr ""
+
+#: lib/config.php:2034 lib/config.php:2367 lib/config.php:2418 lib/config.php:2568
+msgid "Select main menu source ( optional )."
+msgstr ""
+
+#: lib/config.php:2035 lib/config.php:2368 lib/config.php:2419 lib/config.php:2569
+msgid "Leave blank if same as default."
+msgstr ""
+
+#: lib/config.php:2040
+msgid "Single Post"
+msgstr ""
+
+#: lib/config.php:2046 lib/config.php:2373 lib/config.php:2499 lib/config.php:2574
+msgid "Title Placement"
+msgstr ""
+
+#: lib/config.php:2047
+msgid "Single post title placement."
+msgstr ""
+
+#: lib/config.php:2051 lib/config.php:2201 lib/config.php:2378 lib/config.php:2504 lib/config.php:2579
+msgid "Content"
+msgstr ""
+
+#: lib/config.php:2059 lib/config.php:2587
+msgid "Featured Image as Heading"
+msgstr ""
+
+#: lib/config.php:2060 lib/config.php:2588
+msgid "Using featured image as header image."
+msgstr ""
+
+#: lib/config.php:2070
+msgid "Drag up/down for reoder the element."
+msgstr ""
+
+#: lib/config.php:2073
+msgid "Used Elements"
+msgstr ""
+
+#: lib/config.php:2074
+msgid "Element will show in detail post."
+msgstr ""
+
+#: lib/config.php:2077
+msgid "Featured Image"
+msgstr ""
+
+#: lib/config.php:2078
+msgid "Post Title"
+msgstr ""
+
+#: lib/config.php:2079
+msgid "Post Meta"
+msgstr ""
+
+#: lib/config.php:2080
+msgid "Post Content"
+msgstr ""
+
+#: lib/config.php:2081
+msgid "Post Author"
+msgstr ""
+
+#: lib/config.php:2085
+msgid "Available Elements"
+msgstr ""
+
+#: lib/config.php:2086
+msgid "Element below not show in detail post."
+msgstr ""
+
+#: lib/config.php:2089
+msgid "Post Tag"
+msgstr ""
+
+#: lib/config.php:2101
+msgid "Sidebar Width"
+msgstr ""
+
+#: lib/config.php:2102
+#, php-format
+msgid "1 grid it's mean 8.33% of page width."
+msgstr ""
+
+#: lib/config.php:2105
+msgid "2 grids ( 16.66%)"
+msgstr ""
+
+#: lib/config.php:2106
+msgid "3 grids ( 25.00%)"
+msgstr ""
+
+#: lib/config.php:2107
+msgid "4 grids ( 33.33%)"
+msgstr ""
+
+#: lib/config.php:2108
+msgid "5 grids ( 41.66%)"
+msgstr ""
+
+#: lib/config.php:2109
+msgid "6 grids ( 50.00%)"
+msgstr ""
+
+#: lib/config.php:2115 lib/config.php:2183 lib/config.php:2424 lib/config.php:2526
+msgid "Sidebar Position"
+msgstr ""
+
+#: lib/config.php:2116
+msgid "Select sidebar position as default"
+msgstr ""
+
+#: lib/config.php:2120 lib/config.php:2133 lib/config.php:2146 lib/config.php:2159 lib/config.php:2188 lib/config.php:2263 lib/config.php:2276 lib/config.php:2289
+#: lib/config.php:2430 lib/config.php:2532 lib/config.php:2545
+msgid "No Sidebar"
+msgstr ""
+
+#: lib/config.php:2128
+msgid "Post Sidebar Position"
+msgstr ""
+
+#: lib/config.php:2129
+msgid "Select sidebar position for single post"
+msgstr ""
+
+#: lib/config.php:2141
+msgid "Author Sidebar Position"
+msgstr ""
+
+#: lib/config.php:2142
+msgid "Select sidebar position for author blog"
+msgstr ""
+
+#: lib/config.php:2154 lib/config.php:2271 lib/config.php:2540
+msgid "Category Sidebar Position"
+msgstr ""
+
+#: lib/config.php:2155
+msgid "Select sidebar position for post category"
+msgstr ""
+
+#: lib/config.php:2169
+msgid "Sidebar Settings."
+msgstr ""
+
+#: lib/config.php:2175
+msgid "Search Page"
+msgstr ""
+
+#: lib/config.php:2184
+msgid "Select sidebar position for search page"
+msgstr ""
+
+#: lib/config.php:2196
+msgid "Search Form Placement"
+msgstr ""
+
+#: lib/config.php:2197
+msgid "Search form placement."
+msgstr ""
+
+#: lib/config.php:2219
+msgid "Page title on search page result."
+msgstr ""
+
+#: lib/config.php:2220
+msgid "Leave blank for no title."
+msgstr ""
+
+#: lib/config.php:2226
+msgid "Hidden From Search"
+msgstr ""
+
+#: lib/config.php:2227
+msgid "The selected post type will hidden from search result."
+msgstr ""
+
+#: lib/config.php:2228
+msgid "Checked for select"
+msgstr ""
+
+#: lib/config.php:2237
+msgid "Custom Result Not Found Text"
+msgstr ""
+
+#: lib/config.php:2238
+msgid "Type in the text that will be show on empty search result if no Result Not Found Page selected."
+msgstr ""
+
+#: lib/config.php:2249
+msgid "Shop"
+msgstr ""
+
+#: lib/config.php:2258
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: lib/config.php:2259
+msgid "Select sidebar position for shop page"
+msgstr ""
+
+#: lib/config.php:2272
+msgid "Select sidebar position for single shop category"
+msgstr ""
+
+#: lib/config.php:2284
+msgid "Product Sidebar Position"
+msgstr ""
+
+#: lib/config.php:2285
+msgid "Select sidebar position for single product"
+msgstr ""
+
+#: lib/config.php:2297
+msgid "Shop Products Show at Most"
+msgstr ""
+
+#: lib/config.php:2298
+msgid "Number of product on shop page."
+msgstr ""
+
+#: lib/config.php:2304
+msgid "Shop Columns"
+msgstr ""
+
+#: lib/config.php:2305
+msgid "Number of columns on shop and shop category page."
+msgstr ""
+
+#: lib/config.php:2309 lib/config.php:2334 lib/config.php:2358
+msgid "4 Columns"
+msgstr ""
+
+#: lib/config.php:2310 lib/config.php:2335 lib/config.php:2359
+msgid "5 Columns"
+msgstr ""
+
+#: lib/config.php:2315
+msgid "Num Related/Upsell Product Show"
+msgstr ""
+
+#: lib/config.php:2316
+msgid "This controls num related/Cross-sell product show"
+msgstr ""
+
+#: lib/config.php:2325
+msgid "Related/Upsell Product Display Columns"
+msgstr ""
+
+#: lib/config.php:2326
+msgid "This controls num column related/upsell product display"
+msgstr ""
+
+#: lib/config.php:2339
+msgid "Cross Sell Display Product"
+msgstr ""
+
+#: lib/config.php:2340
+msgid "This controls num cross sell product display"
+msgstr ""
+
+#: lib/config.php:2349
+msgid "Cross Sell Display Columns"
+msgstr ""
+
+#: lib/config.php:2350
+msgid "This controls num column cross sell display"
+msgstr ""
+
+#: lib/config.php:2374
+msgid "Single product title placement."
+msgstr ""
+
+#: lib/config.php:2385
+msgid "Product Heading Image ( optional )"
+msgstr ""
+
+#: lib/config.php:2399
+msgid "Portfolio"
+msgstr ""
+
+#: lib/config.php:2407 lib/config.php:2596
+msgid "Heading Image ( optional )"
+msgstr ""
+
+#: lib/config.php:2425
+msgid "Select sidebar position for portfolio widget"
+msgstr ""
+
+#: lib/config.php:2426
+msgid "Portfolio detail have same place with widget. Since page no sidebar, portfolio detail placed below main content."
+msgstr ""
+
+#: lib/config.php:2438
+msgid "Portfolio Fields"
+msgstr ""
+
+#: lib/config.php:2439
+msgid "Manage the portfolio field. Must have field with name <strong>\"url\"</strong> for site project or <strong>\"download\"</strong> for download button link."
+msgstr ""
+
+#: lib/config.php:2442
+msgid "Name"
+msgstr ""
+
+#: lib/config.php:2445
+msgid "Link Project"
+msgstr ""
+
+#: lib/config.php:2450
+msgid "Hide Detail"
+msgstr ""
+
+#: lib/config.php:2451
+msgid "Hide project detail field."
+msgstr ""
+
+#: lib/config.php:2462
+msgid "Hide Date"
+msgstr ""
+
+#: lib/config.php:2463
+msgid "Hide date field."
+msgstr ""
+
+#: lib/config.php:2474
+msgid "Hide Category"
+msgstr ""
+
+#: lib/config.php:2475
+msgid "Hide category field."
+msgstr ""
+
+#: lib/config.php:2487
+msgid "Hide Empty Field"
+msgstr ""
+
+#: lib/config.php:2488
+msgid "Hide the field if no value."
+msgstr ""
+
+#: lib/config.php:2500
+msgid "Single portfolio title placement."
+msgstr ""
+
+#: lib/config.php:2518
+msgid "service"
+msgstr ""
+
+#: lib/config.php:2527 lib/config.php:2541
+msgid "Select sidebar position for widget"
+msgstr ""
+
+#: lib/config.php:2528
+msgid "Service detail have same place with widget. Since page no sidebar, service detail placed below main content."
+msgstr ""
+
+#: lib/config.php:2553
+msgid "Category Layout"
+msgstr ""
+
+#: lib/config.php:2554
+msgid "The number of grid columns for category & archive"
+msgstr ""
+
+#: lib/config.php:2575
+msgid "Single service title placement."
+msgstr ""
+
+#: lib/config.php:2605
+msgid "Hide Featured Image"
+msgstr ""
+
+#: lib/config.php:2606
+msgid "Hide featured image in service detail."
+msgstr ""
+
+#: lib/config.php:2623
+msgid "Slides"
+msgstr ""
+
+#: lib/config.php:2625
+msgid "Slides show."
+msgstr ""
+
+#: lib/config.php:2631
+msgid "Slides Options"
+msgstr ""
+
+#: lib/config.php:2632
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: lib/config.php:2634
+msgid "Title text"
+msgstr ""
+
+#: lib/config.php:2635
+msgid "Description text"
+msgstr ""
+
+#: lib/config.php:2636
+msgid "1st button link!"
+msgstr ""
+
+#: lib/config.php:2637
+msgid "2nd button link!"
+msgstr ""
+
+#: lib/config.php:2645
+msgid "Footer"
+msgstr ""
+
+#: lib/config.php:2653
+msgid "Footer Option"
+msgstr ""
+
+#: lib/config.php:2659
+msgid "Footer Source"
+msgstr ""
+
+#: lib/config.php:2660
+msgid "Selec the footer content source."
+msgstr ""
+
+#: lib/config.php:2664 redux-framework/ReduxCore/framework.php:204 redux-framework/ReduxCore/framework.php:208
+msgid "Options"
+msgstr ""
+
+#: lib/config.php:2671
+msgid "Footer Page (default)"
+msgstr ""
+
+#: lib/config.php:2672
+msgid "Content will displayed as footer section"
+msgstr ""
+
+#: lib/config.php:2682
+msgid "Footer Template"
+msgstr ""
+
+#: lib/config.php:2683
+msgid "Footer option will show in each page. You can assigned different footer each page."
+msgstr ""
+
+#: lib/config.php:2691
+msgid "Pre Footer Page (default)"
+msgstr ""
+
+#: lib/config.php:2692
+msgid "Content will displayed before footer section"
+msgstr ""
+
+#: lib/config.php:2693
+msgid "If no page selected, system will display Pre-Footer Text."
+msgstr ""
+
+#: lib/config.php:2702
+msgid "Pre Footer Template"
+msgstr ""
+
+#: lib/config.php:2703
+msgid "Option will show in each page. You can assigned different pre footer each page."
+msgstr ""
+
+#: lib/config.php:2710
+msgid "Pre-Footer Text"
+msgstr ""
+
+#: lib/config.php:2711
+msgid "Type in the text that will be show on side of bottom widget area. You also can using shortcode ex: [tags] for display tag widget."
+msgstr ""
+
+#: lib/config.php:2719
+msgid "Pre-Footer Area Background Color"
+msgstr ""
+
+#: lib/config.php:2720
+msgid "Pick a background color for the pre-footer area"
+msgstr ""
+
+#: lib/config.php:2728
+msgid "Pre-Footer Area Color"
+msgstr ""
+
+#: lib/config.php:2729
+msgid "Pick a color for the pre-footer area"
+msgstr ""
+
+#: lib/config.php:2739
+msgid "Widget Section"
+msgstr ""
+
+#: lib/config.php:2740 lib/config.php:2839
+msgid "The content will show on bottom of footer area. This option only for footer source \"option\""
+msgstr ""
+
+#: lib/config.php:2746
+msgid "Widget Area"
+msgstr ""
+
+#: lib/config.php:2747
+msgid "Enable or Disable footer"
+msgstr ""
+
+#: lib/config.php:2749 redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41 template-part/single/post-toolbars.php:12
+msgid "On"
+msgstr ""
+
+#: lib/config.php:2750 redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: lib/config.php:2770
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: lib/config.php:2771
+msgid "Select number of column for the footer widget <br>You can set the footer widget on Appearance > Widgets > Bottom Widget Area"
+msgstr ""
+
+#: lib/config.php:2772 lib/nuno_elements.php:1392
+msgid "One Column"
+msgstr ""
+
+#: lib/config.php:2773 lib/nuno_elements.php:1393
+msgid "Two Columns"
+msgstr ""
+
+#: lib/config.php:2774 lib/nuno_elements.php:1394
+msgid "Three Columns"
+msgstr ""
+
+#: lib/config.php:2775 lib/nuno_elements.php:1395
+msgid "Four Columns"
+msgstr ""
+
+#: lib/config.php:2784
+msgid "Footer Text Width"
+msgstr ""
+
+#: lib/config.php:2785 lib/config.php:2878
+#, php-format
+msgid "12 grids it's mean 100% of page width."
+msgstr ""
+
+#: lib/config.php:2796
+msgid "Footer Text Position"
+msgstr ""
+
+#: lib/config.php:2797
+msgid "The position of text, on left widget area or right widget area."
+msgstr ""
+
+#: lib/config.php:2809
+msgid "Footer Text"
+msgstr ""
+
+#: lib/config.php:2810
+msgid "Type in the text that will be show on side of bottom widget area. You also can using shortcode ex: [tags][socials] for display tag widget."
+msgstr ""
+
+#: lib/config.php:2818
+msgid "Bottom Widget Background Color"
+msgstr ""
+
+#: lib/config.php:2819
+msgid "Pick a background color for the bottom widget area"
+msgstr ""
+
+#: lib/config.php:2827
+msgid "Bottom Widget Color"
+msgstr ""
+
+#: lib/config.php:2828
+msgid "Pick a color for the bottom widget area"
+msgstr ""
+
+#: lib/config.php:2838
+msgid "Copyright Section"
+msgstr ""
+
+#: lib/config.php:2859
+msgid "Left Content"
+msgstr ""
+
+#: lib/config.php:2860 lib/config.php:2869
+msgid "Type in the text that will be show on footer area. You also can using shortcode ex: [tags][socials] for display tag widget."
+msgstr ""
+
+#: lib/config.php:2861
+#, php-format
+msgid "%s, The Awesome Theme. All right reserved."
+msgstr ""
+
+#: lib/config.php:2868
+msgid "Right Content"
+msgstr ""
+
+#: lib/config.php:2877
+msgid "Left Content Width"
+msgstr ""
+
+#: lib/config.php:2889
+msgid "Footer Background Color"
+msgstr ""
+
+#: lib/config.php:2890
+msgid "Pick a background color for the footer area"
+msgstr ""
+
+#: lib/config.php:2898
+msgid "Footer Text Color"
+msgstr ""
+
+#: lib/config.php:2899
+msgid "Pick a color for the footer text."
+msgstr ""
+
+#: lib/config.php:2909 lib/nuno_elements.php:2760
+msgid "Styles"
+msgstr ""
+
+#: lib/config.php:2919
+msgid "Pre-Set Colors"
+msgstr ""
+
+#: lib/config.php:2925
+msgid "COLOR PRESETS"
+msgstr ""
+
+#: lib/config.php:2926
+msgid "Select pre-define a color set. Becareful! your last color will be overwriten."
+msgstr ""
+
+#: lib/config.php:2930
+msgid "Yellow Egg"
+msgstr ""
+
+#: lib/config.php:2935
+msgid "Egg Plant"
+msgstr ""
+
+#: lib/config.php:2940
+msgid "Blue Sea"
+msgstr ""
+
+#: lib/config.php:2945
+msgid "Green"
+msgstr ""
+
+#: lib/config.php:2950
+msgid "Yellow Pine"
+msgstr ""
+
+#: lib/config.php:2955
+msgid "Nerazuri"
+msgstr ""
+
+#: lib/config.php:2960
+msgid "Pastal"
+msgstr ""
+
+#: lib/config.php:2965
+msgid "Beach Sand"
+msgstr ""
+
+#: lib/config.php:2970
+msgid "Royalls"
+msgstr ""
+
+#: lib/config.php:2975
+msgid "Mint"
+msgstr ""
+
+#: lib/config.php:2980
+msgid "Ello"
+msgstr ""
+
+#: lib/config.php:2985
+msgid "Black Ello"
+msgstr ""
+
+#: lib/config.php:2990
+msgid "Retro"
+msgstr ""
+
+#: lib/config.php:2995
+msgid "Modern"
+msgstr ""
+
+#: lib/config.php:3000
+msgid "Nautica"
+msgstr ""
+
+#: lib/config.php:3005
+msgid "Mild"
+msgstr ""
+
+#: lib/config.php:3010
+msgid "Midnight Pastal"
+msgstr ""
+
+#: lib/config.php:3015
+msgid "Modern Cyan"
+msgstr ""
+
+#: lib/config.php:3020
+msgid "Light Wood"
+msgstr ""
+
+#: lib/config.php:3025
+msgid "Moist Wood"
+msgstr ""
+
+#: lib/config.php:3030
+msgid "Twilight"
+msgstr ""
+
+#: lib/config.php:3035
+msgid "Brazillian"
+msgstr ""
+
+#: lib/config.php:3040
+msgid "City Scape"
+msgstr ""
+
+#: lib/config.php:3045
+msgid "Golden Eyes"
+msgstr ""
+
+#: lib/config.php:3058
+msgid "General Colors"
+msgstr ""
+
+#: lib/config.php:3059
+msgid "General Style Settings."
+msgstr ""
+
+#: lib/config.php:3067
+msgid "Body Text Color"
+msgstr ""
+
+#: lib/config.php:3068
+msgid "The color for body and all text."
+msgstr ""
+
+#: lib/config.php:3077
+msgid "Heading Color"
+msgstr ""
+
+#: lib/config.php:3078
+msgid "Color for heading. sualy with h1,h2,h3,h4,h5,h6,.h1) tags or .h1,.h2,.h3,.h4,.h5,.h6,.heading-color classes."
+msgstr ""
+
+#: lib/config.php:3087 lib/nuno_elements.php:2726 lib/themegum_functions.php:17 lib/widgets.php:437
+msgid "Primary Color"
+msgstr ""
+
+#: lib/config.php:3088
+msgid "Select color for primary brand"
+msgstr ""
+
+#: lib/config.php:3097 lib/nuno_elements.php:2727 lib/themegum_functions.php:20 lib/widgets.php:438
+msgid "Secondary Color"
+msgstr ""
+
+#: lib/config.php:3098
+msgid "Select color for secondary brand"
+msgstr ""
+
+#: lib/config.php:3106 lib/themegum_functions.php:23
+msgid "Third Color"
+msgstr ""
+
+#: lib/config.php:3107
+msgid "Pick a color for decoration color"
+msgstr ""
+
+#: lib/config.php:3114
+msgid "Link Color"
+msgstr ""
+
+#: lib/config.php:3115
+msgid "Pick a link color"
+msgstr ""
+
+#: lib/config.php:3122
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/config.php:3123
+msgid "Pick a link hover color"
+msgstr ""
+
+#: lib/config.php:3129
+msgid "Content Background"
+msgstr ""
+
+#: lib/config.php:3130
+msgid "Background for content area."
+msgstr ""
+
+#: lib/config.php:3139
+msgid "Body Background Color"
+msgstr ""
+
+#: lib/config.php:3140
+msgid "Background for body area."
+msgstr ""
+
+#: lib/config.php:3154
+msgid "Typography"
+msgstr ""
+
+#: lib/config.php:3155
+msgid "Font Style Settings."
+msgstr ""
+
+#: lib/config.php:3161
+msgid "Body Font"
+msgstr ""
+
+#: lib/config.php:3162
+msgid "Specify the body font properties."
+msgstr ""
+
+#: lib/config.php:3183
+msgid "Heading Font"
+msgstr ""
+
+#: lib/config.php:3184 lib/config.php:3202
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: lib/config.php:3201
+msgid "Sub Heading Font"
+msgstr ""
+
+#: lib/config.php:3221 lib/nuno_elements.php:497 lib/nuno_elements.php:506 lib/nuno_elements.php:513 lib/nuno_elements.php:1215 lib/nuno_elements.php:1224
+#: lib/nuno_elements.php:1231 lib/nuno_elements.php:2083 lib/nuno_elements.php:2092 lib/nuno_elements.php:2099 lib/nuno_elements.php:2111 lib/nuno_elements.php:2121
+#: lib/nuno_elements.php:2500 lib/nuno_elements.php:2510 lib/nuno_elements.php:2775 lib/nuno_elements.php:2788
+msgid "Advanced"
+msgstr ""
+
+#: lib/config.php:3229
+msgid "Item Purchase Number"
+msgstr ""
+
+#: lib/config.php:3230
+#, php-format
+msgid "purchase number from %s. ex:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+msgstr ""
+
+#: lib/config.php:3237
+msgid "Custom 404 Page"
+msgstr ""
+
+#: lib/config.php:3238
+msgid "Select a page as 404 error message"
+msgstr ""
+
+#: lib/config.php:3243
+msgid "Custom 404 Text"
+msgstr ""
+
+#: lib/config.php:3244
+msgid "Type in the text that will be show on error 404 page if  no Custom 404 Page selected. If both custom 404 page and custom 404 text empty, default 404 given."
+msgstr ""
+
+#: lib/config.php:3251
+msgid "Javascript Code"
+msgstr ""
+
+#: lib/config.php:3252
+msgid "Put your javascript code here."
+msgstr ""
+
+#: lib/config.php:3254
+msgid "Code only ( without tag )"
+msgstr ""
+
+#: lib/config.php:3261
+msgid "Development Mode"
+msgstr ""
+
+#: lib/config.php:3262
+msgid "Custom css style and custom style will embed in-page."
+msgstr ""
+
+#: lib/config.php:3275
+msgid "Body Settings"
+msgstr ""
+
+#: lib/config.php:3281
+msgid "Gutter Width"
+msgstr ""
+
+#: lib/config.php:3282
+msgid "Padding between columns. Gets divided in half for the left and right"
+msgstr ""
+
+#: lib/config.php:3283
+msgid "The default is 30px"
+msgstr ""
+
+#: lib/config.php:3289
+msgid "Tablet Breakpoint"
+msgstr ""
+
+#: lib/config.php:3290
+msgid "The default is 768px"
+msgstr ""
+
+#: lib/config.php:3296
+msgid "Desktop Breakpoint"
+msgstr ""
+
+#: lib/config.php:3297
+msgid "The default is 992px"
+msgstr ""
+
+#: lib/config.php:3303
+msgid "Wide Desktop Breakpoint"
+msgstr ""
+
+#: lib/config.php:3304
+msgid "The default is 1200px"
+msgstr ""
+
+#: lib/config.php:3316
+msgid "Body Padding"
+msgstr ""
+
+#: lib/config.php:3325
+msgid "Turn Off Mobile Responsive"
+msgstr ""
+
+#: lib/config.php:3326
+msgid "Responsiveness."
+msgstr ""
+
+#: lib/config.php:3334
+msgid "Screen Width"
+msgstr ""
+
+#: lib/config.php:3335
+msgid "Custom page width. Leave blank if not defined."
+msgstr ""
+
+#: lib/config.php:3422 lib/config.php:3426 lib/config.php:3432
+msgid "Filesystem error."
+msgstr ""
+
+#: lib/nuno_elements.php:130
+msgid "Lapindos Slides"
+msgstr ""
+
+#: lib/nuno_elements.php:137
+msgid "Slide Interval"
+msgstr ""
+
+#: lib/nuno_elements.php:139 lib/nuno_elements.php:857
+msgid "Milliseconds before progressing to next slide automatically."
+msgstr ""
+
+#: lib/nuno_elements.php:143 lib/nuno_elements.php:861
+msgid "Slide Speed"
+msgstr ""
+
+#: lib/nuno_elements.php:145 lib/nuno_elements.php:863
+msgid "Slide speed in milisecond."
+msgstr ""
+
+#: lib/nuno_elements.php:149 lib/nuno_elements.php:867
+msgid "Background Animation"
+msgstr ""
+
+#: lib/nuno_elements.php:152 lib/nuno_elements.php:870
+msgid "Select animation the slider."
+msgstr ""
+
+#: lib/nuno_elements.php:154 lib/nuno_elements.php:745 lib/nuno_elements.php:872 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:71
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: lib/nuno_elements.php:155 lib/nuno_elements.php:180 lib/nuno_elements.php:873 lib/nuno_elements.php:898
+msgid "Fade"
+msgstr ""
+
+#: lib/nuno_elements.php:160 lib/nuno_elements.php:878
+msgid "Animation Easing"
+msgstr ""
+
+#: lib/nuno_elements.php:163 lib/nuno_elements.php:881
+msgid "Select animation easing the slider."
+msgstr ""
+
+#: lib/nuno_elements.php:165 lib/nuno_elements.php:883
+msgid "Linear"
+msgstr ""
+
+#: lib/nuno_elements.php:166 lib/nuno_elements.php:884
+msgid "Swing"
+msgstr ""
+
+#: lib/nuno_elements.php:171 lib/nuno_elements.php:889
+msgid "Content Animation"
+msgstr ""
+
+#: lib/nuno_elements.php:174 lib/nuno_elements.php:892
+msgid "Select animation for slide content."
+msgstr ""
+
+#: lib/nuno_elements.php:177 lib/nuno_elements.php:895
+msgid "From Top"
+msgstr ""
+
+#: lib/nuno_elements.php:178 lib/nuno_elements.php:896
+msgid "From Bottom"
+msgstr ""
+
+#: lib/nuno_elements.php:179 lib/nuno_elements.php:897
+msgid "Scale"
+msgstr ""
+
+#: lib/nuno_elements.php:181 lib/nuno_elements.php:899
+msgid "Scale and Fade"
+msgstr ""
+
+#: lib/nuno_elements.php:186 lib/nuno_elements.php:904
+msgid "Pagination"
+msgstr ""
+
+#: lib/nuno_elements.php:191 lib/nuno_elements.php:909 redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: lib/nuno_elements.php:195 lib/nuno_elements.php:235 lib/nuno_elements.php:913 lib/nuno_elements.php:953
+msgid "Full Screen"
+msgstr ""
+
+#: lib/nuno_elements.php:198 lib/nuno_elements.php:916
+msgid "Slide container full width. If select no, you mus define as well. "
+msgstr ""
+
+#: lib/nuno_elements.php:202 lib/nuno_elements.php:243 lib/nuno_elements.php:920 lib/nuno_elements.php:961
+msgid "Desktop"
+msgstr ""
+
+#: lib/nuno_elements.php:203 lib/nuno_elements.php:244 lib/nuno_elements.php:921 lib/nuno_elements.php:962
+msgid "This optional for large screen from 992px."
+msgstr ""
+
+#: lib/nuno_elements.php:212 lib/nuno_elements.php:253 lib/nuno_elements.php:930 lib/nuno_elements.php:971
+msgid "Tablet"
+msgstr ""
+
+#: lib/nuno_elements.php:213 lib/nuno_elements.php:254 lib/nuno_elements.php:931 lib/nuno_elements.php:972
+msgid "This optional for screen up to 992px."
+msgstr ""
+
+#: lib/nuno_elements.php:222 lib/nuno_elements.php:263 lib/nuno_elements.php:448 lib/nuno_elements.php:940 lib/nuno_elements.php:981 lib/nuno_elements.php:1166
+#: lib/nuno_elements.php:1643 lib/nuno_elements.php:2034 lib/nuno_elements.php:2445
+msgid "Mobile"
+msgstr ""
+
+#: lib/nuno_elements.php:223 lib/nuno_elements.php:264 lib/nuno_elements.php:941 lib/nuno_elements.php:982
+msgid "This optional for screen up to 480px."
+msgstr ""
+
+#: lib/nuno_elements.php:232 lib/nuno_elements.php:950 redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:248
+msgid "Height"
+msgstr ""
+
+#: lib/nuno_elements.php:239 lib/nuno_elements.php:957
+msgid "Slide container full height. If select no, you mus define as well. "
+msgstr ""
+
+#: lib/nuno_elements.php:273 lib/nuno_elements.php:991 lib/nuno_elements.php:1468 lib/nuno_elements.php:1859 lib/nuno_elements.php:2270
+msgid "Any Screen"
+msgstr ""
+
+#: lib/nuno_elements.php:277 lib/nuno_elements.php:995 lib/nuno_elements.php:1472 lib/nuno_elements.php:1863 lib/nuno_elements.php:2274
+msgid "( Above 1366px )"
+msgstr ""
+
+#: lib/nuno_elements.php:278 lib/nuno_elements.php:285 lib/nuno_elements.php:292 lib/nuno_elements.php:299 lib/nuno_elements.php:306 lib/nuno_elements.php:315
+#: lib/nuno_elements.php:321 lib/nuno_elements.php:328 lib/nuno_elements.php:336 lib/nuno_elements.php:344 lib/nuno_elements.php:352 lib/nuno_elements.php:361
+#: lib/nuno_elements.php:367 lib/nuno_elements.php:374 lib/nuno_elements.php:382 lib/nuno_elements.php:390 lib/nuno_elements.php:398 lib/nuno_elements.php:407
+#: lib/nuno_elements.php:413 lib/nuno_elements.php:420 lib/nuno_elements.php:428 lib/nuno_elements.php:436 lib/nuno_elements.php:444 lib/nuno_elements.php:453
+#: lib/nuno_elements.php:459 lib/nuno_elements.php:466 lib/nuno_elements.php:474 lib/nuno_elements.php:482 lib/nuno_elements.php:490 lib/nuno_elements.php:996
+#: lib/nuno_elements.php:1003 lib/nuno_elements.php:1010 lib/nuno_elements.php:1017 lib/nuno_elements.php:1024 lib/nuno_elements.php:1033 lib/nuno_elements.php:1039
+#: lib/nuno_elements.php:1046 lib/nuno_elements.php:1054 lib/nuno_elements.php:1062 lib/nuno_elements.php:1070 lib/nuno_elements.php:1079 lib/nuno_elements.php:1085
+#: lib/nuno_elements.php:1092 lib/nuno_elements.php:1100 lib/nuno_elements.php:1108 lib/nuno_elements.php:1116 lib/nuno_elements.php:1125 lib/nuno_elements.php:1131
+#: lib/nuno_elements.php:1138 lib/nuno_elements.php:1146 lib/nuno_elements.php:1154 lib/nuno_elements.php:1162 lib/nuno_elements.php:1171 lib/nuno_elements.php:1177
+#: lib/nuno_elements.php:1184 lib/nuno_elements.php:1192 lib/nuno_elements.php:1200 lib/nuno_elements.php:1208 lib/nuno_elements.php:1473 lib/nuno_elements.php:1480
+#: lib/nuno_elements.php:1487 lib/nuno_elements.php:1494 lib/nuno_elements.php:1501 lib/nuno_elements.php:1510 lib/nuno_elements.php:1516 lib/nuno_elements.php:1523
+#: lib/nuno_elements.php:1531 lib/nuno_elements.php:1539 lib/nuno_elements.php:1547 lib/nuno_elements.php:1556 lib/nuno_elements.php:1562 lib/nuno_elements.php:1569
+#: lib/nuno_elements.php:1577 lib/nuno_elements.php:1585 lib/nuno_elements.php:1593 lib/nuno_elements.php:1602 lib/nuno_elements.php:1608 lib/nuno_elements.php:1615
+#: lib/nuno_elements.php:1623 lib/nuno_elements.php:1631 lib/nuno_elements.php:1639 lib/nuno_elements.php:1648 lib/nuno_elements.php:1654 lib/nuno_elements.php:1661
+#: lib/nuno_elements.php:1669 lib/nuno_elements.php:1677 lib/nuno_elements.php:1685 lib/nuno_elements.php:1864 lib/nuno_elements.php:1871 lib/nuno_elements.php:1878
+#: lib/nuno_elements.php:1885 lib/nuno_elements.php:1892 lib/nuno_elements.php:1901 lib/nuno_elements.php:1907 lib/nuno_elements.php:1914 lib/nuno_elements.php:1922
+#: lib/nuno_elements.php:1930 lib/nuno_elements.php:1938 lib/nuno_elements.php:1947 lib/nuno_elements.php:1953 lib/nuno_elements.php:1960 lib/nuno_elements.php:1968
+#: lib/nuno_elements.php:1976 lib/nuno_elements.php:1984 lib/nuno_elements.php:1993 lib/nuno_elements.php:1999 lib/nuno_elements.php:2006 lib/nuno_elements.php:2014
+#: lib/nuno_elements.php:2022 lib/nuno_elements.php:2030 lib/nuno_elements.php:2039 lib/nuno_elements.php:2045 lib/nuno_elements.php:2052 lib/nuno_elements.php:2060
+#: lib/nuno_elements.php:2068 lib/nuno_elements.php:2076 lib/nuno_elements.php:2275 lib/nuno_elements.php:2282 lib/nuno_elements.php:2289 lib/nuno_elements.php:2296
+#: lib/nuno_elements.php:2303 lib/nuno_elements.php:2312 lib/nuno_elements.php:2318 lib/nuno_elements.php:2325 lib/nuno_elements.php:2333 lib/nuno_elements.php:2341
+#: lib/nuno_elements.php:2349 lib/nuno_elements.php:2358 lib/nuno_elements.php:2364 lib/nuno_elements.php:2371 lib/nuno_elements.php:2379 lib/nuno_elements.php:2387
+#: lib/nuno_elements.php:2395 lib/nuno_elements.php:2404 lib/nuno_elements.php:2410 lib/nuno_elements.php:2417 lib/nuno_elements.php:2425 lib/nuno_elements.php:2433
+#: lib/nuno_elements.php:2441 lib/nuno_elements.php:2450 lib/nuno_elements.php:2456 lib/nuno_elements.php:2463 lib/nuno_elements.php:2471 lib/nuno_elements.php:2479
+#: lib/nuno_elements.php:2487
+msgid "Margin"
+msgstr ""
+
+#: lib/nuno_elements.php:310 lib/nuno_elements.php:1028 lib/nuno_elements.php:1505 lib/nuno_elements.php:1896 lib/nuno_elements.php:2307
+msgid "Notebook"
+msgstr ""
+
+#: lib/nuno_elements.php:311 lib/nuno_elements.php:1029 lib/nuno_elements.php:1506 lib/nuno_elements.php:1897 lib/nuno_elements.php:2308
+msgid "( Below 1366px )"
+msgstr ""
+
+#: lib/nuno_elements.php:356 lib/nuno_elements.php:1074 lib/nuno_elements.php:1551 lib/nuno_elements.php:1942 lib/nuno_elements.php:2353
+msgid "Tablet Landscape"
+msgstr ""
+
+#: lib/nuno_elements.php:357 lib/nuno_elements.php:1075 lib/nuno_elements.php:1552 lib/nuno_elements.php:1943 lib/nuno_elements.php:2354
+msgid "( Below 1024px )"
+msgstr ""
+
+#: lib/nuno_elements.php:402 lib/nuno_elements.php:1120 lib/nuno_elements.php:1597 lib/nuno_elements.php:1988 lib/nuno_elements.php:2399
+msgid "Tablet Portrait"
+msgstr ""
+
+#: lib/nuno_elements.php:403 lib/nuno_elements.php:1121 lib/nuno_elements.php:1598 lib/nuno_elements.php:1989 lib/nuno_elements.php:2400
+msgid "( Below 768px )"
+msgstr ""
+
+#: lib/nuno_elements.php:449 lib/nuno_elements.php:1167 lib/nuno_elements.php:1644 lib/nuno_elements.php:2035 lib/nuno_elements.php:2446
+msgid "( Below 480px )"
+msgstr ""
+
+#: lib/nuno_elements.php:494 lib/nuno_elements.php:1212 lib/nuno_elements.php:1349 lib/nuno_elements.php:2080 lib/nuno_elements.php:2251
+msgid "Anchor ID"
+msgstr ""
+
+#: lib/nuno_elements.php:498 lib/nuno_elements.php:1216 lib/nuno_elements.php:1352 lib/nuno_elements.php:2084 lib/nuno_elements.php:2254
+msgid "Enter anchor ID without pound '#' sign. This filed required id Popup Content activated."
+msgstr ""
+
+#: lib/nuno_elements.php:501 lib/nuno_elements.php:1219 lib/nuno_elements.php:1355 lib/nuno_elements.php:2087 lib/nuno_elements.php:2257
+msgid "Extra CSS class"
+msgstr ""
+
+#: lib/nuno_elements.php:509 lib/nuno_elements.php:1227 lib/nuno_elements.php:1362 lib/nuno_elements.php:2095 lib/nuno_elements.php:2264
+msgid "Z-Index"
+msgstr ""
+
+#: lib/nuno_elements.php:512 lib/nuno_elements.php:1230 lib/nuno_elements.php:1365 lib/nuno_elements.php:2098 lib/nuno_elements.php:2267
+msgid "Enter z-index for adjust z position"
+msgstr ""
+
+#: lib/nuno_elements.php:750
+msgid "Image"
+msgstr ""
+
+#: lib/nuno_elements.php:752
+msgid "Slide image"
+msgstr ""
+
+#: lib/nuno_elements.php:756
+msgid "Title Text"
+msgstr ""
+
+#: lib/nuno_elements.php:763
+msgid "Long Text"
+msgstr ""
+
+#: lib/nuno_elements.php:770 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:195
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:279
+msgid "Content Align"
+msgstr ""
+
+#: lib/nuno_elements.php:780
+msgid "LEFT BUTTON"
+msgstr ""
+
+#: lib/nuno_elements.php:787 lib/nuno_elements.php:816
+msgid "Button Text"
+msgstr ""
+
+#: lib/nuno_elements.php:791 lib/nuno_elements.php:820
+msgid "Leave blank if not using button"
+msgstr ""
+
+#: lib/nuno_elements.php:807 lib/nuno_elements.php:836 lib/nuno_elements.php:1825 lib/nuno_elements.php:2247
+msgid "Skin color overwritten at color settings"
+msgstr ""
+
+#: lib/nuno_elements.php:810
+msgid "RIGHT BUTTON"
+msgstr ""
+
+#: lib/nuno_elements.php:846
+msgid "Superslide"
+msgstr ""
+
+#: lib/nuno_elements.php:855
+msgid "Play Interval"
+msgstr ""
+
+#: lib/nuno_elements.php:1341
+msgid "Latest Posts"
+msgstr ""
+
+#: lib/nuno_elements.php:1368
+msgid "Post Layout"
+msgstr ""
+
+#: lib/nuno_elements.php:1373
+msgid "Image Bottom"
+msgstr ""
+
+#: lib/nuno_elements.php:1374
+msgid "Hide Image"
+msgstr ""
+
+#: lib/nuno_elements.php:1375
+msgid "Hide Excerpt"
+msgstr ""
+
+#: lib/nuno_elements.php:1376
+msgid "Image Only"
+msgstr ""
+
+#: lib/nuno_elements.php:1380
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/nuno_elements.php:1387
+msgid "Number of Columns"
+msgstr ""
+
+#: lib/nuno_elements.php:1389
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr ""
+
+#: lib/nuno_elements.php:1400
+msgid "Image Size"
+msgstr ""
+
+#: lib/nuno_elements.php:1404
+msgid ""
+"Enter image size. Example: thumbnail, small, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x200 (Width x "
+"Height)."
+msgstr ""
+
+#: lib/nuno_elements.php:1407
+msgid "Title Text Transform"
+msgstr ""
+
+#: lib/nuno_elements.php:1414
+msgid "UPPERCASE"
+msgstr ""
+
+#: lib/nuno_elements.php:1415
+msgid "lowercase"
+msgstr ""
+
+#: lib/nuno_elements.php:1416
+msgid "Capitalize"
+msgstr ""
+
+#: lib/nuno_elements.php:1417
+msgid "Fullwidth"
+msgstr ""
+
+#: lib/nuno_elements.php:1422 lib/nuno_elements.php:1792 lib/nuno_elements.php:2224
+msgid "Title Tag"
+msgstr ""
+
+#: lib/nuno_elements.php:1434
+msgid "The tag will representing title size."
+msgstr ""
+
+#: lib/nuno_elements.php:1439
+msgid "Title Font Family"
+msgstr ""
+
+#: lib/nuno_elements.php:1444
+msgid "Like Body"
+msgstr ""
+
+#: lib/nuno_elements.php:1445
+msgid "Like Sub Heading"
+msgstr ""
+
+#: lib/nuno_elements.php:1451
+msgid "Post title length"
+msgstr ""
+
+#: lib/nuno_elements.php:1456
+msgid "Num words post title displayed."
+msgstr ""
+
+#: lib/nuno_elements.php:1459
+msgid "Post excerpt length"
+msgstr ""
+
+#: lib/nuno_elements.php:1464
+msgid "Num words post content displayed."
+msgstr ""
+
+#: lib/nuno_elements.php:1762
+msgid "Lapindos Optin Form"
+msgstr ""
+
+#: lib/nuno_elements.php:1765 lib/widgets.php:94
+msgid "Display optin form from newsletter engine like mailchimp"
+msgstr ""
+
+#: lib/nuno_elements.php:1771 lib/nuno_elements.php:2203 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:151
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:238 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: lib/nuno_elements.php:1779 lib/nuno_elements.php:2211
+msgid "Title Alignment"
+msgstr ""
+
+#: lib/nuno_elements.php:1810
+msgid "Choose Layout"
+msgstr ""
+
+#: lib/nuno_elements.php:1814 lib/widgets.php:188
+msgid "Vertical"
+msgstr ""
+
+#: lib/nuno_elements.php:1815 lib/widgets.php:189
+msgid "Horizontal"
+msgstr ""
+
+#: lib/nuno_elements.php:1829
+msgid "Field Name"
+msgstr ""
+
+#: lib/nuno_elements.php:1832
+msgid "Hide"
+msgstr ""
+
+#: lib/nuno_elements.php:1837 lib/widgets.php:195
+msgid "Text before form:"
+msgstr ""
+
+#: lib/nuno_elements.php:1844 lib/widgets.php:199
+msgid "Text after form:"
+msgstr ""
+
+#: lib/nuno_elements.php:1851
+msgid "Optin Code"
+msgstr ""
+
+#: lib/nuno_elements.php:1853
+msgid "Put your optin form code here. No any script allowed"
+msgstr ""
+
+#: lib/nuno_elements.php:2103 lib/nuno_elements.php:2492
+msgid "Scroll Spy"
+msgstr ""
+
+#: lib/nuno_elements.php:2109 lib/nuno_elements.php:2498
+msgid "Animation when element focused."
+msgstr ""
+
+#: lib/nuno_elements.php:2114 lib/nuno_elements.php:2503
+msgid "Animation Delay"
+msgstr ""
+
+#: lib/nuno_elements.php:2118 lib/nuno_elements.php:2507
+msgid "The number of delay the animation effect of the element. in milisecond"
+msgstr ""
+
+#: lib/nuno_elements.php:2194 lib/widgets.php:228
+msgid "Lapindos Social Icon"
+msgstr ""
+
+#: lib/nuno_elements.php:2197
+msgid "Display social icon link from theme option."
+msgstr ""
+
+#: lib/nuno_elements.php:2242
+msgid "Icon Skin"
+msgstr ""
+
+#: lib/nuno_elements.php:2525
+msgid "Title Text Here"
+msgstr ""
+
+#: lib/nuno_elements.php:2677
+msgid "Decoration"
+msgstr ""
+
+#: lib/nuno_elements.php:2686
+msgid "Decoration Style"
+msgstr ""
+
+#: lib/nuno_elements.php:2691
+msgid "Line Decoration"
+msgstr ""
+
+#: lib/nuno_elements.php:2707
+msgid "Top Left"
+msgstr ""
+
+#: lib/nuno_elements.php:2708
+msgid "Top Center"
+msgstr ""
+
+#: lib/nuno_elements.php:2709
+msgid "Top Right"
+msgstr ""
+
+#: lib/nuno_elements.php:2710
+msgid "Bottom Left"
+msgstr ""
+
+#: lib/nuno_elements.php:2711
+msgid "Bottom Center"
+msgstr ""
+
+#: lib/nuno_elements.php:2712
+msgid "Bottom Right"
+msgstr ""
+
+#: lib/nuno_elements.php:2720
+msgid "Decoration Color"
+msgstr ""
+
+#: lib/nuno_elements.php:2722
+msgid "Primary color and secondary color preset on theme option."
+msgstr ""
+
+#: lib/nuno_elements.php:2728 lib/nuno_elements.php:2738
+msgid "Custom Color"
+msgstr ""
+
+#: lib/nuno_elements.php:2749 redux-framework/ReduxCore/inc/fields/typography/field_typography.php:194
+msgid "Style"
+msgstr ""
+
+#: lib/nuno_elements.php:2754
+msgid "Rounded Top"
+msgstr ""
+
+#: lib/nuno_elements.php:2756
+msgid "Capsule"
+msgstr ""
+
+#: lib/nuno_elements.php:2757
+msgid "Underline"
+msgstr ""
+
+#: lib/nuno_elements.php:2758
+msgid "Su Clean FAQ"
+msgstr ""
+
+#: lib/nuno_elements.php:2766
+msgid "Extra Function"
+msgstr ""
+
+#: lib/nuno_elements.php:2771
+msgid "As Popup Content"
+msgstr ""
+
+#: lib/nuno_elements.php:2772
+msgid "Sticky Row"
+msgstr ""
+
+#: lib/nuno_elements.php:2773 lib/nuno_elements.php:2783
+msgid "Sticky Menu Offset"
+msgstr ""
+
+#: lib/nuno_elements.php:2776
+msgid "Extra function to this row."
+msgstr ""
+
+#: lib/nuno_elements.php:2787
+msgid "The menu go appear after end this row. This option only work if your menu sticky mode."
+msgstr ""
+
+#: lib/tgm.php:11
+msgid "Lapindos Page Attributes"
+msgstr ""
+
+#: lib/tgm.php:19
+msgid "WordPress Importer"
+msgstr ""
+
+#: lib/tgm.php:26
+msgid "WP Options Importer"
+msgstr ""
+
+#: lib/tgm.php:33
+msgid "Nuno Builder"
+msgstr ""
+
+#: lib/tgm.php:41
+msgid "Crelly Slider By Fabio Rinaldi"
+msgstr ""
+
+#: lib/tgm.php:48
+msgid "Simple Line Icon Addon"
+msgstr ""
+
+#: lib/tgm.php:56
+msgid "WooCommerce"
+msgstr ""
+
+#: lib/tgm.php:63
+msgid "Service Post by TemeGUM"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:339
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:391
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:392 lib/tgm/class-tgm-plugin-activation.php:918 lib/tgm/class-tgm-plugin-activation.php:2624
+#: lib/tgm/class-tgm-plugin-activation.php:3644
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:393 lib/tgm/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:394 lib/tgm/class-tgm-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:398
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:400
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:402
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:609
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:610
+msgid "Update Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:727
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1025
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1025 lib/tgm/class-tgm-plugin-activation.php:1028
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1028
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1212 lib/tgm/class-tgm-plugin-activation.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2433
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2479
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3562
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3565
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3567
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3571
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3573 lib/tgm/class-tgm-plugin-activation.php:3581
+msgid "Show Details"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3573 lib/tgm/class-tgm-plugin-activation.php:3581
+msgid "Hide Details"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3574
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3576
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3579
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3582
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/themegum_functions.php:16
+msgid "Outline"
+msgstr ""
+
+#: lib/themegum_functions.php:18
+msgid "Primary Color(Outline)"
+msgstr ""
+
+#: lib/themegum_functions.php:19
+msgid "Primary - Third Color"
+msgstr ""
+
+#: lib/themegum_functions.php:21
+msgid "Secondary Color(Outline)"
+msgstr ""
+
+#: lib/themegum_functions.php:22
+msgid "Secondary - Third Color"
+msgstr ""
+
+#: lib/themegum_functions.php:24
+msgid "Third Color(Outline)"
+msgstr ""
+
+#: lib/themegum_functions.php:25
+msgid "Third - Secondary Color"
+msgstr ""
+
+#: lib/themegum_functions.php:1061
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: lib/themegum_functions.php:1278 template-part/content-search-petro_service.php:40 template-part/content-search.php:24 template-part/content.php:26
+msgid "read more"
+msgstr ""
+
+#: lib/themegum_functions.php:1398
+#, php-format
+msgid "by : %s"
+msgstr ""
+
+#: lib/themegum_functions.php:1401
+msgid "(Edit)"
+msgstr ""
+
+#: lib/themegum_functions.php:1409
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/themegum_functions.php:1413
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/themegum_functions.php:1427
+msgid "Reply"
+msgstr ""
+
+#: lib/themegum_functions.php:1443
+msgid "read more replies ..."
+msgstr ""
+
+#: lib/themegum_functions.php:1476
+msgid "Enter Name"
+msgstr ""
+
+#: lib/themegum_functions.php:1478
+msgid "Enter Email"
+msgstr ""
+
+#: lib/themegum_functions.php:1480
+msgid "Enter Website"
+msgstr ""
+
+#: lib/themegum_functions.php:1486
+msgid "Enter Your Comment..."
+msgstr ""
+
+#: lib/themegum_functions.php:1489
+msgid "post comment"
+msgstr ""
+
+#: lib/themegum_functions.php:1490
+msgid "Your email address will not be published."
+msgstr ""
+
+#: lib/themegum_functions.php:1494
+msgid "Cancel"
+msgstr ""
+
+#: lib/themegum_functions.php:1642
+msgid "Newest Post"
+msgstr ""
+
+#: lib/themegum_functions.php:1647
+msgid "Older Post"
+msgstr ""
+
+#: lib/themegum_functions.php:1762
+msgid "Home"
+msgstr ""
+
+#: lib/themegum_functions.php:1899
+msgid "Next page"
+msgstr ""
+
+#: lib/themegum_functions.php:1900
+msgid "Previous page"
+msgstr ""
+
+#: lib/themegum_functions.php:1959
+msgid "menu"
+msgstr ""
+
+#: lib/themegum_functions.php:6162
+msgid "facebook"
+msgstr ""
+
+#: lib/themegum_functions.php:6170
+msgid "google +"
+msgstr ""
+
+#: lib/themegum_functions.php:6178
+msgid "twitter"
+msgstr ""
+
+#: lib/themegum_functions.php:6186
+msgid "instagram"
+msgstr ""
+
+#: lib/themegum_functions.php:6194
+msgid "pinterest"
+msgstr ""
+
+#: lib/themegum_functions.php:6203
+msgid "linkedin"
+msgstr ""
+
+#: lib/widgets.php:95
+msgid "Optin Form"
+msgstr ""
+
+#: lib/widgets.php:143
+msgid "enter your email"
+msgstr ""
+
+#: lib/widgets.php:145
+msgid "enter your name"
+msgstr ""
+
+#: lib/widgets.php:184 lib/widgets.php:236 lib/widgets.php:299 lib/widgets.php:428 lib/widgets.php:561
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets.php:186
+msgid "Layout:"
+msgstr ""
+
+#: lib/widgets.php:193
+msgid "Show Name"
+msgstr ""
+
+#: lib/widgets.php:197 lib/widgets.php:201
+msgid "Simplae html allowed"
+msgstr ""
+
+#: lib/widgets.php:203
+msgid "Optin code:"
+msgstr ""
+
+#: lib/widgets.php:205
+msgid "Put optin code from your provider, usualy strarting with form tag without javascript code."
+msgstr ""
+
+#: lib/widgets.php:207 lib/widgets.php:448
+msgid "Button Skin:"
+msgstr ""
+
+#: lib/widgets.php:227
+msgid "Display social icon link."
+msgstr ""
+
+#: lib/widgets.php:238
+msgid "Social link define on Appearance > Theme Options > Social Link"
+msgstr ""
+
+#: lib/widgets.php:239
+msgid "Color Skin:"
+msgstr ""
+
+#: lib/widgets.php:291
+msgid "A list or dropdown of service categories."
+msgstr ""
+
+#: lib/widgets.php:292
+msgid "Service Categories"
+msgstr ""
+
+#: lib/widgets.php:354
+msgid "Display call to action widget"
+msgstr ""
+
+#: lib/widgets.php:355
+msgid "Lapindos CTA"
+msgstr ""
+
+#: lib/widgets.php:430
+msgid "Text Content:"
+msgstr ""
+
+#: lib/widgets.php:432
+msgid "Simple html allowed"
+msgstr ""
+
+#: lib/widgets.php:434
+msgid "Box Background:"
+msgstr ""
+
+#: lib/widgets.php:439
+msgid "Thirdy Color"
+msgstr ""
+
+#: lib/widgets.php:441
+msgid "The color defined on Theme Options."
+msgstr ""
+
+#: lib/widgets.php:444
+msgid "Button URL:"
+msgstr ""
+
+#: lib/widgets.php:446
+msgid "Button Text:"
+msgstr ""
+
+#: lib/widgets.php:470
+msgid "Add a navigation menu to your sidebar."
+msgstr ""
+
+#: lib/widgets.php:471
+msgid "Lapindos Menu"
+msgstr ""
+
+#: lib/widgets.php:557
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: lib/widgets.php:565
+msgid "Select Menu:"
+msgstr ""
+
+#: lib/widgets.php:567
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: lib/widgets.php:577
+msgid "Edit Menu"
+msgstr ""
+
+#: lib/woocommerce.php:55
+msgid "Registration page"
+msgstr ""
+
+#: lib/woocommerce.php:56
+#, php-format
+msgid "Page contents: [%s]"
+msgstr ""
+
+#: lib/woocommerce.php:84
+msgid "Place order"
+msgstr ""
+
+#: lib/woocommerce.php:98 lib/woocommerce.php:105
+msgid "Specification"
+msgstr ""
+
+#: lib/woocommerce.php:110 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:155
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:242 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: lib/woocommerce.php:141
+msgid "Payment Method"
+msgstr ""
+
+#: page.php:27 template-part/single/content-single.php:38
+msgid "No Comments"
+msgstr ""
+
+#: page.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: page.php:27
+msgid "% Comments"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:438 redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:521
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:446 redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:522
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:454
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:462 redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:523
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:469
+msgid "Please Wait"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:480
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/enqueue.php:481
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:66
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:131
+msgid "Settings Imported!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:145
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:159
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:173
+msgid "Settings Saved!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:192
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:200
+msgid "error(s) were found!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:208
+msgid "warning(s) were found!"
+msgstr ""
+
+#: redux-framework/ReduxCore/core/panel.php:300
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. "
+"Ensure you update or remove them."
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:200
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:200
+msgid "Redux Framework"
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:393 redux-framework/ReduxCore/framework.php:395 redux-framework/ReduxCore/settings.php:42
+#: redux-framework/ReduxCore/settings.php:43
+msgid "Theme Options"
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:1364
+msgid "moving the mouse over"
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:1366
+msgid "clicking"
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:1370
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:1375
+msgid "Hints"
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:2348
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: redux-framework/ReduxCore/framework.php:2395
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_cdn.php:74
+msgid "Please wait a few minutes, then try refreshing the page. Unable to load some remotely hosted scripts."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our CDN and "
+"avoid this warning"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not installed or not activated and thus, some controls may not render properly.  Please ensure "
+"that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_filesystem.php:28 redux-framework/ReduxCore/inc/class.redux_filesystem.php:57
+#: redux-framework/ReduxCore/inc/class.redux_filesystem.php:240
+msgid "File Permission Issues"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_filesystem.php:28
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or modify your wp-config.php file to contain your FTP login credentials as <a href=\"%s\" "
+"target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_filesystem.php:57 redux-framework/ReduxCore/inc/class.redux_filesystem.php:240
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> has the proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/class.redux_helpers.php:245
+#, php-format
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:548
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:549
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:550
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114 redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138 redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/extension_import_export.php:117
+msgid "Import / Export"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:89
+msgid "Import Options"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import from File"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import from URL"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:94
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:99
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Export Options"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:110
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your "
+"settings on this site (or any other site)."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Copy Data"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:117
+msgid "Download Data File"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:118
+msgid "Copy Export URL"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/options_object/extension_options_object.php:80
+#: redux-framework/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:124 redux-framework/ReduxCore/inc/fields/color/field_color.php:73
+#: redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79 redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:277 redux-framework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:314 redux-framework/ReduxCore/inc/fields/media/field_media.php:198
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:132 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:226
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/background/field_background.php:321 redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:92
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:108
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:124 redux-framework/ReduxCore/inc/fields/media/field_media.php:205
+#: redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69 redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:139
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:228 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/border/field_border.php:125 redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:187
+msgid "All"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189 redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:241 redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:242
+msgid "Units"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:62 redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:92 redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:108
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:124
+msgid "Edit Icon"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:136
+#: redux-framework/ReduxCore/inc/fields/icon_multi_text/field_icon_multi_text.php:198
+msgid "Search Icon"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/password/field_password.php:47 woocommerce/myaccount/form-login.php:38 woocommerce/myaccount/form-registration.php:45
+msgid "Password"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/password/field_password.php:48
+msgid "Username"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:76 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:212
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:159 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:245
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:168 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:253
+msgid "URL 2"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:177 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:261
+msgid "1st Button Label"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:186 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:269
+msgid "2nd Button Label"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:205 redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:289
+#: redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/petro_slides/field_petro_slides.php:292 redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/select/field_select.php:82 redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/select/field_select.php:132 redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:108
+msgid "Font family"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:148
+msgid "Standard Fonts"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:190 redux-framework/ReduxCore/inc/fields/typography/field_typography.php:194
+msgid "Font style"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:220
+msgid "Font subsets"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:221
+msgid "Subsets"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:221
+msgid "Font script"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:239
+msgid "Size"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:256
+msgid "Word Spacing"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:264
+msgid "Letter Spacing"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:278
+msgid "Backup Font Family"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:298
+msgid "Font color"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/fields/typography/field_typography.php:573
+msgid "Google Webfonts"
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/color/validation_color.php:17 redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:16
+#: redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:18
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:18
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/date/validation_date.php:18
+msgid "This field must be a valid date."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/email/validation_email.php:18 redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:18
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:17
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:18
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:18
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:18
+#: redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:18
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: redux-framework/ReduxCore/inc/validation/url/validation_url.php:17
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/footer.tpl.php:51 redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/footer.tpl.php:54 redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:24
+msgid "Reset Section"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/footer.tpl.php:55 redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset All"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/footer.tpl.php:60 redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:28
+msgid "Working..."
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:15 redux-framework/ReduxCore/templates/panel/header.tpl.php:48
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:24
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:30
+msgid "and"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:33
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:35
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:51
+msgid "The \"forced_dev_mode_off\" argument has been set to true."
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:52
+msgid ""
+"Support options are not available while this argument is enabled.  You will also need to switch this argument to false before deploying your project.  If you are a "
+"user of this product and you are seeing this message, please contact the author of this theme/plugin."
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header.tpl.php:57
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: redux-framework/ReduxCore/templates/panel/header_stickybar.tpl.php:18
+msgid "Expand"
+msgstr ""
+
+#: search.php:22
+msgid "Search Result"
+msgstr ""
+
+#: search.php:66 template-part/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:67 template-part/content-none.php:17
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: search.php:68 template-part/content-none.php:18
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: searchform.php:11 template-part/header-section-module-search.php:17
+msgctxt "label"
+msgid "Type and hit enter"
+msgstr ""
+
+#: searchform.php:11 template-part/header-section-module-search.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: template-part/content-none.php:15
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-part/content-none.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-part/portfolio-info.php:27
+#, php-format
+msgid "%s details"
+msgstr ""
+
+#: template-part/portfolio-info.php:30
+msgid "date"
+msgstr ""
+
+#: template-part/portfolio-info.php:33
+msgid "categories"
+msgstr ""
+
+#: template-part/portfolio-info.php:62
+#, php-format
+msgid "previous %s"
+msgstr ""
+
+#: template-part/portfolio-info.php:63
+#, php-format
+msgid "next %s"
+msgstr ""
+
+#: template-part/post-meta-lite-top.php:11 template-part/post-meta-lite.php:11 template-part/post-meta.php:11 template-part/single/post-meta.php:11
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-part/post-meta-lite-top.php:11 template-part/post-meta-lite.php:11 template-part/post-meta.php:11 template-part/single/post-meta.php:11
+msgid "no comment"
+msgstr ""
+
+#: template-part/post-meta.php:17 template-part/single/post-meta.php:17
+msgid "Posted by:"
+msgstr ""
+
+#: template-part/post-meta.php:21 template-part/single/post-meta.php:21
+#, php-format
+msgid "category: %s"
+msgstr ""
+
+#: template-part/single/content-single.php:38
+msgid "Comment (1)"
+msgstr ""
+
+#: template-part/single/content-single.php:38
+msgid "Comments (%)"
+msgstr ""
+
+#: template-part/single/post-author.php:17
+#, php-format
+msgid "by: %s"
+msgstr ""
+
+#: template-part/single/post-toolbars.php:12
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: template-part/single/post-toolbars.php:16
+msgid "share to"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93 woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:110
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:57
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140 woocommerce/checkout/form-coupon.php:39
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30 woocommerce/myaccount/form-login.php:45
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35 woocommerce/myaccount/form-registration.php:36
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+msgid "Create Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-registration.php:29 woocommerce/myaccount/form-registration.php:56
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-registration.php:40
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-registration.php:50
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-registration.php:59
+msgid "or"
+msgstr ""
+
+#: woocommerce/myaccount/form-registration.php:60
+msgid "return to shop"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""

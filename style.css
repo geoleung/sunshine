@@ -1,0 +1,55 @@
+/*
+Theme Name: 		Lapindos
+Theme URI: 			http://lapindos.themegum.com
+Author: 			TemeGUM
+Author URI: 		http://themegum.com
+Description: 		Lapindos is designed for cleaning services company and other service. This theme has beautifull and unique design that will be best suited for your online web presence. It has 100% responsive design and tested on all major handheld devices, the theme also responsive and high quality in any browsers
+Version: 			1.1.3
+License:            Envato Market Standard Licenses
+License URI:        https://themeforest.net/licenses/standard
+Tags: 				two-columns, three-columns, left-sidebar, right-sidebar, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: 		lapindos
+Domain Path: 		/languages/
+*/
+.wp-caption {
+    margin: 0;
+    max-width: 100%;
+}
+
+.wp-caption-text {
+  text-align: center;
+  display: block;
+}
+
+.gallery-caption {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.bypostauthor > .comment-body .comment-author {
+    clear: right;
+    position: relative;
+}
+
+.bypostauthor > .comment-body .comment-container{
+    background: #f6f6f6;
+}
+
+.alignright{
+	text-align: right;
+	float: right;
+	margin: 0.5em 0 0.5em 2em;
+}
+
+.alignleft{
+	text-align: left;
+    float: left;
+    margin: 0.5em 2em 0.5em 0;
+}
+
+.aligncenter {
+	text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

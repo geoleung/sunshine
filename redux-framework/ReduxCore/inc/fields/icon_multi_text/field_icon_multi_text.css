@@ -1,0 +1,5 @@
+.icon-selection-preview{margin-left: -30px;position: absolute;display: inline;}
+.redux-icon-multi-text .redux-multi-text-remove,
+.redux-icon-multi-text .input-group{ display: inline-block;}
+.redux-icon-multi-text span.drag{margin-left: 20px;}
+.redux-icon-multi-text-field > label { min-width: 150px;}

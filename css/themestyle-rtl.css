@@ -1,0 +1,156 @@
+/** 
+ *------------------------------------------------------------------------------
+ * @package       Lapindos Responsive WordPress Theme by TemeGUM
+ * @version       1.1.3
+ * @used		  RTL mode
+ *------------------------------------------------------------------------------
+ */
+body.rtl .pagination {
+  text-align: right;
+}
+body.rtl .post-meta-info dd {
+  margin-left: 0;
+  margin-right: 20px;
+  padding-right: 21px;
+  padding-left: 0;
+}
+body.rtl .post-meta-info dd:first-child {
+  margin-right: 0;
+  padding-right: 0;
+}
+body.rtl .post-meta-info dd > i {
+  margin-left: 4px;
+  margin-right: 0;
+}
+body.rtl .social-icons {
+  text-align: left;
+}
+body.rtl .module-social-icon .social-item i + span {
+  padding-left: 1em;
+  padding-right: 0;
+}
+body.rtl .icon-graphic .icon-list > li {
+  padding-left: 30px;
+  padding-right: 55px;
+}
+body.rtl .icon-graphic .icon-list > li:last-child {
+  padding-left: 0;
+}
+body.rtl .icon-graphic .icon-list > li i {
+  left: unset;
+  right: 0;
+}
+body.rtl .heading-module .search-form.nav .dropdown-menu {
+  left: 0;
+  right: unset;
+}
+body.rtl .portfolio-content .portfolio .image-overlay {
+  right: 50%;
+  left: 0;
+  -webkit-transform: translate(50%, -50%);
+  -ms-transform: translate(50%, -50%);
+  -o-transform: translate(50%, -50%);
+  transform: translate(50%, -50%);
+}
+body.rtl .mainmenu-bar-inner .heading-module:first-child,
+body.rtl .top-bar-inner .heading-module:first-child,
+body.rtl .middle-section-inner .heading-module:first-child,
+body.rtl .bottom-section-inner .heading-module:first-child {
+  margin-left: auto;
+  margin-right: unset;
+}
+body.rtl .middle-section-header.logo-right .heading-module.logo {
+  margin-right: auto;
+  margin-left: 0;
+}
+body.rtl .top-bar-menu {
+  text-align: right;
+}
+body.rtl .top-bar-menu .caret,
+body.rtl .main-menu .caret {
+  margin-right: 10px;
+  margint-left: 0;
+}
+body.rtl .top-bar-menu .sub-menu-container .page_item.page_item_has_children .caret,
+body.rtl .main-menu .sub-menu-container .page_item.page_item_has_children .caret,
+body.rtl .top-bar-menu .sub-menu-container .menu-item.menu-item-has-children .caret,
+body.rtl .main-menu .sub-menu-container .menu-item.menu-item-has-children .caret {
+  float: left;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+body.rtl .top-bar-menu .sub-menu-container .sub-menu-container,
+body.rtl .main-menu .sub-menu-container .sub-menu-container {
+  left: unset;
+  margin-left: unset;
+  margin-right: -1px;
+  right: 100%;
+}
+body.rtl .post-lists.blog-col-2 article .post-content::before,
+body.rtl .post-lists.blog-col-3 article .post-content::before,
+body.rtl .post-lists.blog-col-4 article .post-content::before {
+  -webkit-transform-origin: right top;
+  -moz-transform-origin: right top;
+  -ms-transform-origin: right top;
+  transform-origin: right top;
+}
+body.rtl .author-profile .avatar {
+  float: right;
+  margin-left: 20px;
+  margin-right: 0;
+}
+body.rtl .widget ul {
+  padding-right: 25px;
+  padding-left: 0;
+}
+body.rtl .widget ul > li::before {
+  right: -25px;
+  left: unset;
+}
+body.rtl .widget.widget_categories > ul,
+body.rtl .widget.soclean_widget_social ul,
+body.rtl .widget.widget_nav_menu ul,
+body.rtl .widget.widget_pages ul,
+body.rtl .widget.widget_recent_entries > ul {
+  padding: 0;
+}
+body.rtl .widget.widget_search form input {
+  padding-left: 40px;
+  padding-right: 20px;
+}
+body.rtl .widget.widget_search form .search-ico {
+  margin-right: -30px;
+  margin-left: unset;
+}
+body.rtl .widget.widget_calendar #wp-calendar #next,
+body.rtl .widget.widget_calendar table #next {
+  text-align: left;
+}
+body.rtl .widget.widget_calendar #wp-calendar #prev,
+body.rtl .widget.widget_calendar table #prev {
+  text-align: right;
+}
+body.rtl.single-tg_custom_post .post-content h2::before,
+body.rtl.single-superclean_service .post-content h2::before,
+body.rtl .footer-widget .widget-title::before,
+body.rtl .footer-widget .widgettitle::before {
+  right: 0;
+  left: unset;
+}
+body.rtl #toTop {
+  left: 30px;
+  right: unset;
+}
+@media (min-width: 768px) {
+  body.rtl .navbar-right {
+    float: left !important;
+    margin-left: -15px;
+    margin-right: 0;
+  }
+  body.rtl .navbar-right .dropdown-menu {
+    left: 0;
+    right: auto;
+  }
+}
